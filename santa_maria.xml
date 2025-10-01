@@ -1,0 +1,31 @@
+<series name="Santa Maria della Salute">
+    <year>2017</year>
+    <genre>TV Mini Series</genre>
+            <description>Tells the story of famous poet Laza Kostic and relationship with Lenka Dundjerski, much younger girl and daughter of his friend.</description>
+            <imageUrl>https://img.youtube.com/vi/zAHY12Obi8Y/0.jpg</imageUrl>
+            <seasons>
+                <season number="1">
+                    <episode>
+                        <title>Prva epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/zAHY12Obi8Y/0.jpg</imageUrl>
+                        <videoId>zAHY12Obi8Y</videoId>
+                    </episode>
+                    <episode>
+                        <title>Druga epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/QFN5NjiqYag/0.jpg</imageUrl>
+                        <videoId>QFN5NjiqYag</videoId>
+                    </episode>
+                    <episode>
+                        <title>Treca epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/MmQVngDsLNc/0.jpg</imageUrl>
+                        <videoId>MmQVngDsLNc</videoId>
+                    </episode>
+                    <episode>
+                        <title>cetvrta epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/LtAPLzKZ_4M/0.jpg</imageUrl>
+                        <videoId>LtAPLzKZ_4M</videoId>
+                    </episode>
+
+        </season>
+    </seasons>
+</series>

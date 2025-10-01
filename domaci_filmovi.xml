@@ -1,0 +1,29 @@
+<category name="Domaci filmovi">
+    <movie>
+        <title>Anita 1 rodjendan</title>
+        <year>1999</year>
+        <genre>Domaci filmovi</genre>
+        <type>film</type>
+        <description>Anita 1 rodjendan</description>
+        <imageUrl>https://img.youtube.com/vi/2h94quQ99Ko/0.jpg</imageUrl>
+        <videoId>2h94quQ99Ko</videoId>
+    </movie>
+    <movie>
+        <title>Anita 2 rodjendan</title>
+        <year>1999</year>
+        <genre>Domaci filmovi</genre>
+        <type>film</type>
+        <description>Anita 2 rodjendan</description>
+        <imageUrl>https://img.youtube.com/vi/1kXG6Kl46Lc/0.jpg</imageUrl>
+        <videoId>1kXG6Kl46Lc</videoId>
+    </movie>
+    <movie>
+        <title>Anita 5 rodjendan</title>
+        <year>1999</year>
+        <genre>Domaci filmovi</genre>
+        <type>film</type>
+        <description>Anita 5 rodjendan</description>
+        <imageUrl>https://img.youtube.com/vi/HZDsjgJ5Dy0/0.jpg</imageUrl>
+        <videoId>HZDsjgJ5Dy0</videoId>
+    </movie>
+</category>

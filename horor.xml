@@ -1,0 +1,29 @@
+    <category name="Horor">
+        <movie>
+            <title>sait 39 rodjendan</title>
+            <year>1973</year>
+            <genre>Horor</genre>
+            <type>film</type>
+            <description>sait 39 rodjendan</description>
+            <imageUrl>https://img.youtube.com/vi/thA1AHFSl_4/0.jpg</imageUrl>
+            <videoId>thA1AHFSl_4</videoId>
+        </movie>
+        <movie>
+            <title>Sait Ispracaj u vojsku</title>
+            <year>1973</year>
+            <genre>Horor</genre>
+            <type>film</type>
+            <description>Sait Ispracaj u vojsku</description>
+            <imageUrl>https://img.youtube.com/vi/qgeu4_HleZY/0.jpg</imageUrl>
+            <videoId>qgeu4_HleZY</videoId>
+        </movie>
+        <movie>
+            <title>Sait Ispracaj u vojsku</title>
+            <year>1973</year>
+            <genre>Horor</genre>
+            <type>film</type>
+            <description>Sait Ispracaj u vojsku</description>
+            <imageUrl>https://img.youtube.com/vi/qgeu4_HleZY/0.jpg</imageUrl>
+            <videoId>qgeu4_HleZY</videoId>
+        </movie>
+    </category>

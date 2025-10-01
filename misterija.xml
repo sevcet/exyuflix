@@ -1,0 +1,31 @@
+    <category name="Misterija">
+        <movie>
+            <title>Sevda Salimovic Vlasinka Kolo</title>
+            <year>1956</year>
+            <genre>Misterija</genre>
+            <type>film</type>
+            <description>Sevda Salimovic Vlasinka Kolo</description>
+            <imageUrl>https://img.youtube.com/vi/YgixDWWUJ14/0.jpg</imageUrl>
+            <videoId>YgixDWWUJ14</videoId>
+        </movie>
+        <movie>
+            <title>Sevda Salimovic Pirav mange kokoro</title>
+            <year>1956</year>
+            <genre>Misterija</genre>
+            <type>film</type>
+            <description>Sevda Salimovic Pirav mange kokoro</description>
+            <imageUrl>https://img.youtube.com/vi/z4sOYP2BBPk/0.jpg</imageUrl>
+            <videoId>z4sOYP2BBPk</videoId>
+        </movie>
+        <movie>
+            <title>Sevda Salimovic Bugarka Kolo</title>
+            <year>1956</year>
+            <genre>Misterija</genre>
+            <type>film</type>
+            <description>Sevda Salimovic Bugarka Kolo</description>
+            <imageUrl>https://img.youtube.com/vi/wCsK9HyOz0g/0.jpg</imageUrl>
+            <videoId>wCsK9HyOz0g</videoId>
+        </movie>  
+      
+    </category>
+

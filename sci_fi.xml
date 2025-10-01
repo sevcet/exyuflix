@@ -1,0 +1,30 @@
+    <category name="Sci-Fi">
+        <movie>
+            <title>Vaselica 2012</title>
+            <year>9999</year>
+            <genre>Sci-Fi</genre>
+            <type>film</type>
+            <description>Vaselica 2012</description>
+            <imageUrl>https://img.youtube.com/vi/TOR7cEDr130/0.jpg</imageUrl>
+            <videoId>TOR7cEDr130</videoId>
+        </movie>
+        <movie>
+            <title>Oostende 29.07.2012</title>
+            <year>9999</year>
+            <genre>Sci-Fi</genre>
+            <type>film</type>
+            <description>Oostende 29.07.2012</description>
+            <imageUrl>https://img.youtube.com/vi/3NiEbAPafVA/0.jpg</imageUrl>
+            <videoId>3NiEbAPafVA</videoId>
+        </movie>
+        <movie>
+            <title>Oostende 12.08.2012</title>
+            <year>9999</year>
+            <genre>Sci-Fi</genre>
+            <type>film</type>
+            <description>Oostende 12.08.2012</description>
+            <imageUrl>https://img.youtube.com/vi/RhdvYnrVZMw/0.jpg</imageUrl>
+            <videoId>RhdvYnrVZMw</videoId>
+        </movie>
+    </category>
+

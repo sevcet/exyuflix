@@ -1,0 +1,54 @@
+<series name="Kamiondžije d.o.o.">
+    <year>2020</year>
+    <genre>Drama</genre>
+            <description>Nenad Jezdic and Tihomir Stanic in Kamiondzije d.o.o. (2020)
+This is a story about two people, two completely different temperaments, different interests, no job, who would probably never be friends, but their life situation brought them together to be friends and co-drivers.</description>
+            <imageUrl>https://img.youtube.com/vi/deEZWMz0Pao/0.jpg</imageUrl>
+            <seasons>
+                <season number="1">
+                    <episode>
+                        <title>Prva epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/deEZWMz0Pao/0.jpg</imageUrl>
+                        <videoId>deEZWMz0Pao</videoId>
+                    </episode>
+                    <episode>
+                        <title>Druga epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/ZxPoIv7qG9k/0.jpg</imageUrl>
+                        <videoId>ZxPoIv7qG9k</videoId>
+                    </episode>
+                    <episode>
+                        <title>Treca epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/F6Y4sw-juGU/0.jpg</imageUrl>
+                        <videoId>F6Y4sw-juGU</videoId>
+                    </episode>
+                    <episode>
+                        <title>cetvrta epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/cXjJNSBKLRk/0.jpg</imageUrl>
+                        <videoId>cXjJNSBKLRk</videoId>
+                    </episode>
+                </season>
+                <season number="2">
+                    <episode>
+                        <title>Prva epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/ellgwF5wUjc/0.jpg</imageUrl>
+                        <videoId>ellgwF5wUjc</videoId>
+                    </episode>
+                    <episode>
+                        <title>Druga epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/ttVQS6prtBs/0.jpg</imageUrl>
+                        <videoId>ZxPoIv7qG9k</videoId>
+                    </episode>
+                    <episode>
+                        <title>Treca epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/z-7O94w-TJQ/0.jpg</imageUrl>
+                        <videoId>z-7O94w-TJQ</videoId>
+                    </episode>
+                    <episode>
+                        <title>cetvrta epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/3Re3jP0uVjE/0.jpg</imageUrl>
+                        <videoId>3Re3jP0uVjE</videoId>
+                    </episode>
+
+        </season>
+    </seasons>
+</series>

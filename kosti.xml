@@ -1,0 +1,31 @@
+<series name="Kosti">
+    <year>2020</year>
+    <genre>Drama</genre>
+            <description>The plot follows the lives of two people who, at first glance, are connected only by their name - Kosta. First one, refugee from Krajina, is trying to survive, while other one is peacefully building a career.</description>
+            <imageUrl>https://img.youtube.com/vi/WsOrJ-3jFus/0.jpg</imageUrl>
+            <seasons>
+                <season number="1">
+                    <episode>
+                        <title>Prva epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/WsOrJ-3jFus/0.jpg</imageUrl>
+                        <videoId>WsOrJ-3jFus</videoId>
+                    </episode>
+                    <episode>
+                        <title>Druga epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/ycuh3EKIXTU/0.jpg</imageUrl>
+                        <videoId>ycuh3EKIXTU</videoId>
+                    </episode>
+                    <episode>
+                        <title>Treca epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/5_CQ1PYDSfI/0.jpg</imageUrl>
+                        <videoId>5_CQ1PYDSfI</videoId>
+                    </episode>
+                    <episode>
+                        <title>cetvrta epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/rb0YU5nWKvQ/0.jpg</imageUrl>
+                        <videoId>rb0YU5nWKvQ</videoId>
+                    </episode>
+
+        </season>
+    </seasons>
+</series>
