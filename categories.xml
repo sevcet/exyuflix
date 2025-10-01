@@ -1,0 +1,12 @@
+<categories>
+    <category name="Domaci filmovi" file="domaci_filmovi.xml"/>
+    <category name="Domace serije" file="domace_serije.xml"/>
+    <category name="Akcija" file="akcija.xml"/>
+    <category name="Komedija" file="komedija.xml"/>
+    <category name="Horor" file="horor.xml"/>
+    <category name="Sci-Fi" file="sci_fi.xml"/>
+    <category name="Romansa" file="romansa.xml"/>
+    <category name="Misterija" file="misterija.xml"/>
+    <category name="Dokumentarni" file="dokumentarni.xml"/>
+    <category name="Animirani" file="animirani.xml"/>
+</categories>
