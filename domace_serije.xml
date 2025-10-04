@@ -1,5 +1,128 @@
-<seriesList>
-    <series name="Kamiondžije d.o.o." file="kamiondzije.xml"/>
-    <series name="Santa Maria della Salute" file="santa_maria.xml"/>
-    <series name="Kosti" file="kosti.xml"/>
-</seriesList>
+    <category name="Domace serije">
+        <movie>
+            <title>Kamiondžije d.o.o.</title>
+            <year>2020</year>
+            <genre>Drama</genre>
+            <type>serija</type>
+            <description>Nenad Jezdic and Tihomir Stanic in Kamiondzije d.o.o. (2020)
+This is a story about two people, two completely different temperaments, different interests, no job, who would probably never be friends, but their life situation brought them together to be friends and co-drivers.</description>
+            <imageUrl>https://img.youtube.com/vi/deEZWMz0Pao/0.jpg</imageUrl>
+            <seasons>
+                <season number="1">
+                    <episode>
+                        <title>Prva epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/deEZWMz0Pao/0.jpg</imageUrl>
+                        <videoId>deEZWMz0Pao</videoId>
+                    </episode>
+                    <episode>
+                        <title>Druga epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/ZxPoIv7qG9k/0.jpg</imageUrl>
+                        <videoId>ZxPoIv7qG9k</videoId>
+                    </episode>
+                    <episode>
+                        <title>Treca epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/F6Y4sw-juGU/0.jpg</imageUrl>
+                        <videoId>F6Y4sw-juGU</videoId>
+                    </episode>
+                    <episode>
+                        <title>cetvrta epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/cXjJNSBKLRk/0.jpg</imageUrl>
+                        <videoId>cXjJNSBKLRk</videoId>
+                    </episode>
+                </season>
+                <season number="2">
+                    <episode>
+                        <title>Prva epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/ellgwF5wUjc/0.jpg</imageUrl>
+                        <videoId>ellgwF5wUjc</videoId>
+                    </episode>
+                    <episode>
+                        <title>Druga epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/ttVQS6prtBs/0.jpg</imageUrl>
+                        <videoId>ZxPoIv7qG9k</videoId>
+                    </episode>
+                    <episode>
+                        <title>Treca epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/z-7O94w-TJQ/0.jpg</imageUrl>
+                        <videoId>z-7O94w-TJQ</videoId>
+                    </episode>
+                    <episode>
+                        <title>cetvrta epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/3Re3jP0uVjE/0.jpg</imageUrl>
+                        <videoId>3Re3jP0uVjE</videoId>
+                    </episode>
+                </season>
+
+            </seasons>
+        </movie>
+        <movie>
+            <title>Santa Maria della Salute</title>
+            <year>2017</year>
+            <genre>TV Mini Series</genre>
+            <type>serija</type>
+            <description>Tells the story of famous poet Laza Kostic and relationship with Lenka Dundjerski, much younger girl and daughter of his friend.</description>
+            <imageUrl>https://img.youtube.com/vi/zAHY12Obi8Y/0.jpg</imageUrl>
+            <seasons>
+                <season number="1">
+                    <episode>
+                        <title>Prva epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/zAHY12Obi8Y/0.jpg</imageUrl>
+                        <videoId>zAHY12Obi8Y</videoId>
+                    </episode>
+                    <episode>
+                        <title>Druga epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/QFN5NjiqYag/0.jpg</imageUrl>
+                        <videoId>QFN5NjiqYag</videoId>
+                    </episode>
+                    <episode>
+                        <title>Treca epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/MmQVngDsLNc/0.jpg</imageUrl>
+                        <videoId>MmQVngDsLNc</videoId>
+                    </episode>
+                    <episode>
+                        <title>cetvrta epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/LtAPLzKZ_4M/0.jpg</imageUrl>
+                        <videoId>LtAPLzKZ_4M</videoId>
+                    </episode>
+                </season>
+
+
+            </seasons>
+        </movie>
+        <movie>
+            <title>Kosti</title>
+            <year>2020</year>
+            <genre>TV Series</genre>
+            <type>serija</type>
+            <description>The plot follows the lives of two people who, at first glance, are connected only by their name - Kosta. First one, refugee from Krajina, is trying to survive, while other one is peacefully building a career.</description>
+            <imageUrl>https://img.youtube.com/vi/WsOrJ-3jFus/0.jpg</imageUrl>
+            <seasons>
+                <season number="1">
+                    <episode>
+                        <title>Prva epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/WsOrJ-3jFus/0.jpg</imageUrl>
+                        <videoId>WsOrJ-3jFus</videoId>
+                    </episode>
+                    <episode>
+                        <title>Druga epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/ycuh3EKIXTU/0.jpg</imageUrl>
+                        <videoId>ycuh3EKIXTU</videoId>
+                    </episode>
+                    <episode>
+                        <title>Treca epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/5_CQ1PYDSfI/0.jpg</imageUrl>
+                        <videoId>5_CQ1PYDSfI</videoId>
+                    </episode>
+                    <episode>
+                        <title>cetvrta epizoda</title>
+                        <imageUrl>https://img.youtube.com/vi/rb0YU5nWKvQ/0.jpg</imageUrl>
+                        <videoId>rb0YU5nWKvQ</videoId>
+                    </episode>
+                </season>
+
+
+            </seasons>
+        </movie>
+
+
+    </category>
