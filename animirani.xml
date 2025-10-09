@@ -1,31 +1,32 @@
     <category name="Animirani">
-        <movie>
-            <title>Altana 37 Rodjendan</title>
-            <year>1975</year>
-            <genre>Animirani</genre>
-            <type>film</type>
-            <description>Altana 37 Rodjendan</description>
-            <imageUrl>https://img.youtube.com/vi/76sGocRBVcE/0.jpg</imageUrl>
-            <videoId>76sGocRBVcE</videoId>
-        </movie>
-        <movie>
-            <title>Altana 38 rodjendan</title>
-            <year>1975</year>
-            <genre>Animirani</genre>
-            <type>film</type>
-            <description>Altana 38 rodjendan</description>
-            <imageUrl>https://img.youtube.com/vi/ciXm-5VUo4I/0.jpg</imageUrl>
-            <videoId>ciXm-5VUo4I</videoId>
-        </movie>
-        <movie>
-            <title>Altana 38 rodjendan</title>
-            <year>1975</year>
-            <genre>Animirani</genre>
-            <type>film</type>
-            <description>Altana 38 rodjendan</description>
-            <imageUrl>https://img.youtube.com/vi/ciXm-5VUo4I/0.jpg</imageUrl>
-            <videoId>ciXm-5VUo4I</videoId>
-        </movie>
+<movies>
+    <movie>
+        <title>Dante's Inferno | FANTASY, ANIME | Full Movie in English</title>
+        <year>1911</year>
+        <genre>Animirani</genre>
+        <type>film</type>
+        <description>Adaptacija dvostruke relejke Inferno Dante Alighieri iz božanske komedije bi Helios Film. Manje je poznato od funkcije petokrake koje je istogodišnje godine proizvela iste godine, ali je puštena ranije 1911. godine.</description>
+        <imageUrl>https://img.youtube.com/vi/oRnDeKs4q4Q/0.jpg</imageUrl>
+        <videoId>oRnDeKs4q4Q</videoId>
+    </movie>
+    <movie>
+        <title>Ghost in the Shell: the Laughing Man | ANIME, SCIFI | Full Movie in English</title>
+        <year>2005</year>
+        <genre>Animirani</genre>
+        <type>film</type>
+        <description>Godina je 2030 i šest godina prošla od kriminalističkog poznata samo kao "Čovek koji se smeje", kroz vrhunske medicinske nanotehnološke firme čineći djelo ciber-terorizma, otmice i špijunaža ne ostavljaju poznate sumnjiče. Otkrivene su nove informacije, jer je odeljak 9 ulazi u lov na osumnjičenog koji je sposoban za nepomično delovanje u ovoj kompilaciji samostalnog kompleksa samostalnog sadržaja.</description>
+        <imageUrl>https://img.youtube.com/vi/gp7_Wvt6OYU/0.jpg</imageUrl>
+        <videoId>gp7_Wvt6OYU</videoId>
+    </movie>
+    <movie>
+        <title>Ghost in the Shell : Individual Eleven | SCIFI, ANIME | Full Movie in English</title>
+        <year>2006</year>
+        <genre>Animirani</genre>
+        <type>film</type>
+        <description>The year is 2030. Six months passed since the Laughing Man Incident was solved. About 3 million refugees are living in Japan, invited to fill the labor shortage. However, the emergent presence of the invited-refugees intensified their confrontation with the "Individualists", who called for national isolation, which then led to the increased incidences of terrorist attacks. Under these circumstances, a terrorist group called the Individual Eleven carries out a suicide attack. But there was a greater scheme behind their action. When Section 9 learns this, they attempt to nail down the mastermind of the incident.  Meanwhile, Kuze, a surviving member of the Individual Eleven, becomes a charismatic leader of the invited-refugees and intensifies the confrontation against the government. And Motoko starts feeling a strange sense of fate connecting her with Kuze...</description>
+        <imageUrl>https://img.youtube.com/vi/ipK0JGDhANs/0.jpg</imageUrl>
+        <videoId>ipK0JGDhANs</videoId>
+    </movie>
 
     </category>
 

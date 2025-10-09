@@ -1,30 +1,687 @@
     <category name="Romansa">
-        <movie>
-            <title>Salimovic</title>
-            <year>0000</year>
-            <genre>Romansa</genre>
-            <type>film</type>
-            <description>Salimovic</description>
-            <imageUrl>https://img.youtube.com/vi/dWUXfvk4gfM/0.jpg</imageUrl>
-            <videoId>dWUXfvk4gfM</videoId>
-        </movie>
-        <movie>
-            <title>Aleksandra 8 rodjendan</title>
-            <year>0000</year>
-            <genre>Romansa</genre>
-            <type>film</type>
-            <description>Aleksandra 8 rodjendan</description>
-            <imageUrl>https://img.youtube.com/vi/-zy0wd8ZSHQ/0.jpg</imageUrl>
-            <videoId>-zy0wd8ZSHQ</videoId>
-        </movie>
-        <movie>
-            <title>Ismet Svadba</title>
-            <year>0000</year>
-            <genre>Romansa</genre>
-            <type>film</type>
-            <description>Ismet Svadba</description>
-            <imageUrl>https://img.youtube.com/vi/ZUNcbal3TG8/0.jpg</imageUrl>
-            <videoId>ZUNcbal3TG8</videoId>
-        </movie>
+    <movie>
+        <title>Sins of Mrs. X | Linda Hamilton | DRAMA | Full Movie in English</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/UNB1V2DWjRo/0.jpg</imageUrl>
+        <videoId>UNB1V2DWjRo</videoId>
+    </movie>
+    <movie>
+        <title>The Perfect Match | Cassie | ROMANTIC COMEDY | Full Movie in English</title>
+        <year>2019</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Amandski sin Ian ulazi u saobraćajnu nesreću i nauči da mu treba donator jetre. Uskoro. Bilo je čudo što je hitna pomoć stigla do njega - zatim još jedno čudo kada se Dale pojavi i savršena je meč - ali dale nije sve što se čini.</description>
+        <imageUrl>https://img.youtube.com/vi/E971yql1dtM/0.jpg</imageUrl>
+        <videoId>E971yql1dtM</videoId>
+    </movie>
+    <movie>
+        <title>New York, I Love You | Orlando Bloom, Bradley Cooper | ROMANCE | Full Movie</title>
+        <year>2008</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Njujork, volim te da prenosiš u intimni život Njujorčana dok se hvataju, oduševljavaju se i traže ljubav. Putovanje od dijamantskog okruga u srcu Manhattana, kroz kinesku četvrt i gornju istočnu stranu, prema selu, u Tribucu, i Brooklin kao ljubavnici svih uzrasta pokušavaju da pronađu romantiku u velikoj jabuci.</description>
+        <imageUrl>https://img.youtube.com/vi/Zo9USZJ4ev8/0.jpg</imageUrl>
+        <videoId>Zo9USZJ4ev8</videoId>
+    </movie>
+    <movie>
+        <title>GUROV & ANNA | ROMANCE | Full Movie in English</title>
+        <year>2014</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Svojim brakom sa Audreijem skoro krajem, Ben započinje Torrid Affairu sa Mercedesom, mladom francuskom učenikom u svojoj klasi pisanja. Afera uskoro vrti kontrolu, njihove emocije i porodice Bena i Audreijevanja vise u ravnoteži.</description>
+        <imageUrl>https://img.youtube.com/vi/cnZPdH5B_z0/0.jpg</imageUrl>
+        <videoId>cnZPdH5B_z0</videoId>
+    </movie>
+    <movie>
+        <title>Indian Wedding | ROMANCE, COMEDY | Full Movie in English</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Vrti se oko velikog venčanja u Indiji i usled sukoba kulture</description>
+        <imageUrl>https://img.youtube.com/vi/LyG6Q7yY8MM/0.jpg</imageUrl>
+        <videoId>LyG6Q7yY8MM</videoId>
+    </movie>
+    <movie>
+        <title>Crazy Kind of Love | ROMANCE | Full Movie in English</title>
+        <year>2013</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Dok se ponovo ocenjuje njen život, majka se oslanja na svog kamenorni sina i njegovog nespretnog brata da zanimljivo čuvaju život. Kada se malo verovatno romantično cveta između najmlađima sina i devojčice, shvata ključ njene sreće, može se naći tamo gde to najmanje očekuje.</description>
+        <imageUrl>https://img.youtube.com/vi/42CQ8XLmnQM/0.jpg</imageUrl>
+        <videoId>42CQ8XLmnQM</videoId>
+    </movie>
+    <movie>
+        <title>Crowned Love | ROMANCE | Full Movie in English</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/KOHVrI-zBPc/0.jpg</imageUrl>
+        <videoId>KOHVrI-zBPc</videoId>
+    </movie>
+    <movie>
+        <title>Tri metra iznad neba SA PREVODOM NA SRPSKI</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/We-dalL5xhc/0.jpg</imageUrl>
+        <videoId>We-dalL5xhc</videoId>
+    </movie>
+    <movie>
+        <title>BLACKOUT LOVE</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/DdB0vSi-cQE/0.jpg</imageUrl>
+        <videoId>DdB0vSi-cQE</videoId>
+    </movie>
+    <movie>
+        <title>𝗙𝗼𝗿𝗲𝘃𝗲𝗿 𝗠𝘆 𝗚𝗶𝗿𝗹</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/OidgyVbF88Y/0.jpg</imageUrl>
+        <videoId>OidgyVbF88Y</videoId>
+    </movie>
+    <movie>
+        <title>Ben & Ara | ROMANCE | Full Movie in English</title>
+        <year>2012</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Parodija Ben 10-a u Guinnessovom pivu. Emirovan na crtanoj mreži Nordic.</description>
+        <imageUrl>https://img.youtube.com/vi/gA6TdZgPXS4/0.jpg</imageUrl>
+        <videoId>gA6TdZgPXS4</videoId>
+    </movie>
+    <movie>
+        <title>The Object of Beauty | Andie Macdowell (Four Weddings and a Funeral) | ROMANCE | Full Movie</title>
+        <year>1991</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Američki par Jake i Tina žive u skupoj u hotelu London iznad njihovog sredstva, podstičući značajan dug. Kada se od njih traži da plate raskošnu računu za večeru i Jakeova karta je odbijena, on sugeriše da prodaju Tininu sićušnu, skupu Henri Moore skulpturu da pokrije dug. Nakon što se izvlače šemu da tvrde da je skulptura ukradena kako bi se prikupljalo osiguranje na njemu, skulptura misteriozno nestaje.</description>
+        <imageUrl>https://img.youtube.com/vi/q8jFg68lapw/0.jpg</imageUrl>
+        <videoId>q8jFg68lapw</videoId>
+    </movie>
+    <movie>
+        <title>A Frosty Affair | ROMANCE | Full Movie in English</title>
+        <year>2015</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>ROM-COM o avanturama učitelja malog grada, Kate Cartera, vraća se u grad na venčanju. Nakon udara mećara, primorana je da putuje sa strancem po imenu Redford koji joj ostavlja pitanje svojim budućim planovima.</description>
+        <imageUrl>https://img.youtube.com/vi/CWEYJq8o7cw/0.jpg</imageUrl>
+        <videoId>CWEYJq8o7cw</videoId>
+    </movie>
+    <movie>
+        <title>𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐎𝐟 𝐌𝐞 (𝐇𝐃)- romantični film sa prevodom</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/EtD3C5daJDk/0.jpg</imageUrl>
+        <videoId>EtD3C5daJDk</videoId>
+    </movie>
+    <movie>
+        <title>Sins, Lies & Obsession | Lisa Rinna, Harry Hamlin | DRAMA | Full Movie in English</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/WyWHjINxjPo/0.jpg</imageUrl>
+        <videoId>WyWHjINxjPo</videoId>
+    </movie>
+    <movie>
+        <title>Listen to your Heart | ROMANCE | Full Movie in English</title>
+        <year>2010</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Danni Foster nema mnogo: stan kao mali kao i njegove plate, nema porodice i muzičke karijere koja se bori. Ipak, za njega je, "svaki dan je sjajan dan da bude živ", stav koji je stekao od nekrevećih optimizma svoje majke tokom gubitničke bitke sa rakom. To je ljubav na prvi pogled kada Danni upozna Arianu, bogatu devojku iz Greenviča, CT koji tragično ne može čuti muziku koju ga inspiriše da ga naspi. Ariana, sluh oštećeno od detinjstva, rastrgana je između vešanja na sklonište koje njena kontrolisana majka pruža i bori se za ljubav, ako je data šansa, mogla bi samo da joj promeni život</description>
+        <imageUrl>https://img.youtube.com/vi/sSqqj4BNiHY/0.jpg</imageUrl>
+        <videoId>sSqqj4BNiHY</videoId>
+    </movie>
+    <movie>
+        <title>Landing Up | DRAMA, ROMANCE | Full Movie in English</title>
+        <year>2018</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Kada mlada žena nađe živi život na ulicama, nauči umetnost pokupe muškaraca da stave krov preko glave. Ali kada ona upozna momku svojih snova, njena tajna preti da će uništiti njihovu savršenu vezu.</description>
+        <imageUrl>https://img.youtube.com/vi/dZtPovzJP2s/0.jpg</imageUrl>
+        <videoId>dZtPovzJP2s</videoId>
+    </movie>
+    <movie>
+        <title>How to Get the Girl ? | Pierce Brosnan, Julianne Moore | ROMANCE | Full Movie in English</title>
+        <year>1970</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Plaiboi Magazine Darling (i jednokratni plejm Hugh Hefner) Barbi Benton je nestašna navijačica Linne Keefe, malog grada, male malene dušo koja je uhvaćena velikim vremenom u seksualnom poslu. Kao navijač srednje škole koji se zaista može bacati u rodnom gradu u rodnom gradu, Linne me oborila horni hork na motociklu koji je zatim baci, pošalje je u seksualnu spiralu koja je odvela u Catskills, Boston, Nev Iork, Miami i Rim.</description>
+        <imageUrl>https://img.youtube.com/vi/7Dcmold2IKk/0.jpg</imageUrl>
+        <videoId>7Dcmold2IKk</videoId>
+    </movie>
+    <movie>
+        <title>🌀 One Night | Drama ,Romance | Full Movie</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/eYCpahwshzE/0.jpg</imageUrl>
+        <videoId>eYCpahwshzE</videoId>
+    </movie>
+    <movie>
+        <title>Love Hurts | Jeff Daniels (Dumb & Dumber) | ROMANCE | Full Movie in English</title>
+        <year>2002</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Porodica i prijatelji pokušavaju da sabotiraju romantiku pupolja između mlade devojke višeg klase i skromnog učenika.</description>
+        <imageUrl>https://img.youtube.com/vi/vo8poLj8oMY/0.jpg</imageUrl>
+        <videoId>vo8poLj8oMY</videoId>
+    </movie>
+    <movie>
+        <title>A LITTLE BIT OF HEAVEN film sa prevodom</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/iomPWeIJ_KM/0.jpg</imageUrl>
+        <videoId>iomPWeIJ_KM</videoId>
+    </movie>
+    <movie>
+        <title>The Honor List | TEEN, DRAMA | Full Movie in English</title>
+        <year>2018</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Četiri devojke su potonule vremensku kapsulu u jezeru sa spiskom stvari koje žele da urade pre diplomiranja, ali svi idu odvojeni načini pre nego što diplomiraju. Kada tragedija udari, ponovo se ujedinjuju da pronađu kapsulu i popunite listu kanta.</description>
+        <imageUrl>https://img.youtube.com/vi/UJmZN72419w/0.jpg</imageUrl>
+        <videoId>UJmZN72419w</videoId>
+    </movie>
+    <movie>
+        <title>Acquainted | ROMANCE | Full Movie in English</title>
+        <year>2013</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Pojedinačni stanodavac ima simpatiju na svom lezbijskom stanaru.</description>
+        <imageUrl>https://img.youtube.com/vi/Un_nEEFlNls/0.jpg</imageUrl>
+        <videoId>Un_nEEFlNls</videoId>
+    </movie>
+    <movie>
+        <title>Blurred Lines | ROMANCE | Full Movie in English</title>
+        <year>2021</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Janik i Samuel su najbolji prijatelji i uživaju u kraju srednje škole. Njihovi svetovi su različiti: Janik ima roditelje koji uvek rade sve u redu, dok Samuel dolazi iz slomljenog doma. Samuel želi narediti, Janik želi haos. Misaoni trenutak je u opasnosti od dve prijatelje u opasnosti. Dok su krenuli na dugo planirano putovanje u Istanbul, dečaci žele da spasu svoje prijateljstvo, uživaju svoju slobodu i isprobavaju novi život.</description>
+        <imageUrl>https://img.youtube.com/vi/TpxybK2zyMM/0.jpg</imageUrl>
+        <videoId>TpxybK2zyMM</videoId>
+    </movie>
+    <movie>
+        <title>Ovid And The Art Of Love | ROMANCE | Full Movie in English</title>
+        <year>2019</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>U ovom svežem prepričavanju životnog života poznatih rimskih pesnika postavljen u savremenom Detroitu, mladi Ovid nalaze svoj život u opasnosti kada se sukobljava sa carem pisanjem vodiča i zavođenje.</description>
+        <imageUrl>https://img.youtube.com/vi/lWK2ICx501c/0.jpg</imageUrl>
+        <videoId>lWK2ICx501c</videoId>
+    </movie>
+    <movie>
+        <title>My Challenge | DRAMA | Full Movie in English</title>
+        <year>2006</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Misaki, koji želi da se sastane sa drugim muškarcima čak i posle braka, izlazi 10 muškaraca u isto vreme sa Shinjinovim odobrenjem. Misaki je zauzet da upravlja svojim rasporedom, ide na poslovna putovanja sa Kanemotoom, kancelarijskom radnikom, a zatim sa TACHIBANA, učenikom koledža sa kojim je postala olovka sa, na putu. Misaki i Shinji su par koji se ne mogu skloniti jedni drugima, bez obzira koliko dugo provode zajedno.</description>
+        <imageUrl>https://img.youtube.com/vi/UwOHdcZxfAw/0.jpg</imageUrl>
+        <videoId>UwOHdcZxfAw</videoId>
+    </movie>
+    <movie>
+        <title>A Date With Miss Fortune | ROMANCE, COMEDY | Full Movie in English</title>
+        <year>2015</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Kada se borišni pisac upoznaje sujevernu portugalsku lepotu, on nema pojma da su njegov život i sreća oboje da se promene. Romantična komedija o međukulturalnim odnosima.</description>
+        <imageUrl>https://img.youtube.com/vi/AjSklbYgWn0/0.jpg</imageUrl>
+        <videoId>AjSklbYgWn0</videoId>
+    </movie>
+    <movie>
+        <title>Christmas Harmony | ROMANCE | Full Movie in English</title>
+        <year>2018</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Mlada žena se vraća u svoj mali rodni grad da biste ponovo otkrili muziku, porodične obveznice i magiju božićne sezone.</description>
+        <imageUrl>https://img.youtube.com/vi/Qg_VjtHaANg/0.jpg</imageUrl>
+        <videoId>Qg_VjtHaANg</videoId>
+    </movie>
+    <movie>
+        <title>The Little Things | ROMANCE | Full Movie in English</title>
+        <year>2021</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Zamenik šerifa Joe "Deke" Deacon pridružio se silama sa SGT-om. Jim Bakter je tražio serijski ubica koji terorišući Los Anđeles. Dok prate krivac, Bakter nije svestan da istraga vodi odjeka deke prošlosti, otkrivajući uznemirujuće tajne koje bi mogle više prijetiti više od njegovog slučaja.</description>
+        <imageUrl>https://img.youtube.com/vi/BEhTpf81yuI/0.jpg</imageUrl>
+        <videoId>BEhTpf81yuI</videoId>
+    </movie>
+    <movie>
+        <title>British Love | Emilia Clarke (Me Before You) | TEEN, ROMANCE | Full Movie</title>
+        <year>2009</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Dokumentarni film o ljubavnoj vezi između britanskih i njihovih karavana, koji je ugledao zemlju osnivaju najveći svetski proizvođač karavana i pretvorilo je na praznične navike generacija porodica. Prilikom prianjanja intrigantne priče o karavana u Britaniji od 1950-ih do današnjeg dana, film otkriva kako su karavani nekada bili igrališta od privilegovane manjine, ali posle Drugog svetskog rata postala je čvrsta omiljena sa gotovo četvrtinom britanskih prazničnih zarada.</description>
+        <imageUrl>https://img.youtube.com/vi/5-rTP6gR_Vg/0.jpg</imageUrl>
+        <videoId>5-rTP6gR_Vg</videoId>
+    </movie>
+    <movie>
+        <title>A Miracle on Christmas Lake | FAMILY FILM | Full Movies in English</title>
+        <year>2016</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Nakon što je izgubila najboljeg prijatelja Charlieja na Badnjak, Bobbi Vhiteside ulaže na jezero gde su igrali igre zimskog hokeja. Nakon lopata ledene površine otkriva magiju, savršeno njegovan hokejski klizalište koji se pojavljuje samo noću u njegovom prisustvu. Kada razvojno preduzeće započinje kupovinu jezera, Bobbi se pridružuje silama sa svojom srednjom školom kako bi se mi ralli gradila igrala poslednja igra na noćnom ribnjaku.</description>
+        <imageUrl>https://img.youtube.com/vi/RXxSwoXFYUU/0.jpg</imageUrl>
+        <videoId>RXxSwoXFYUU</videoId>
+    </movie>
+    <movie>
+        <title>Accidental Family | ROMANCE, COMEDY | Full Movie in English</title>
+        <year>2021</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Stidljiv usamljeni genealoški konačno otkriva savršenu porodicu i ljubav svog života ... oni to još uvek ne znaju! Greškleno misle da je odavno izgubljena relativna, i nažalost, on je angažovan za pogrešnu devojku koja samo želi svoju porodicu bogatstvo. Kako iskre počinju da lete, ona ga mora upozoriti na svoje varljive finansije i pronaći način da mu kaže istinu o sebi.</description>
+        <imageUrl>https://img.youtube.com/vi/m8PoKLyJi2s/0.jpg</imageUrl>
+        <videoId>m8PoKLyJi2s</videoId>
+    </movie>
+    <movie>
+        <title>My Favorite Girlfriend | ROM COM | Full Movie in English</title>
+        <year>2022</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Čovek se zaljubljuje u ženu koja ima višestruke ličnosti.</description>
+        <imageUrl>https://img.youtube.com/vi/KvmC1Ljw0HY/0.jpg</imageUrl>
+        <videoId>KvmC1Ljw0HY</videoId>
+    </movie>
+    <movie>
+        <title>I Love Us | ROMANCE, DRAMA | Full Movie in English</title>
+        <year>2021</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Thief Veteran Silver Sammi se bori da trguje krivičnom putu za bračni život nakon što se zaljubljuje u jednu majku.</description>
+        <imageUrl>https://img.youtube.com/vi/6QkZUrtBiFI/0.jpg</imageUrl>
+        <videoId>6QkZUrtBiFI</videoId>
+    </movie>
+    <movie>
+        <title>Wimbledon</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/pNZERFU_dyc/0.jpg</imageUrl>
+        <videoId>pNZERFU_dyc</videoId>
+    </movie>
+    <movie>
+        <title>Burning Love | ROMANCE | Full Movie</title>
+        <year>1983</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Mladi slikar zauzima francuske lekcije sa starijom damom da bi se osiguralo da će dobiti grant za Institut za francusku umetnost. Na taj način susreće Annu, prelepu udaju ženu koja neguje dama starog oca i zaljubljuje se u nju.</description>
+        <imageUrl>https://img.youtube.com/vi/4kVCVp761uM/0.jpg</imageUrl>
+        <videoId>4kVCVp761uM</videoId>
+    </movie>
+    <movie>
+        <title>A Year And Change | Bryan Greenberg (One Tree Hill) | ROMANCE | Full Movie in English</title>
+        <year>2015</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>After falling off the roof at a New Year's Eve house party, Owen decides that it's time to make some wholesale changes in his life. Over the next year, he quits drinking, re-enters his estranged son's life, reignites old friendships, and falls in love with Vera, a bank teller and fellow divorcee...all in an attempt to replace members of his family who he'd lost prematurely.</description>
+        <imageUrl>https://img.youtube.com/vi/NMYePwOHSYE/0.jpg</imageUrl>
+        <videoId>NMYePwOHSYE</videoId>
+    </movie>
+    <movie>
+        <title>She Loves Me Not | Romantic Comedy | Full Movie in English</title>
+        <year>1934</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Kabaretski plesač svedoči o ubistvu i primoran je da se sakrije od gangstera prerušim se kao muški student princetona.</description>
+        <imageUrl>https://img.youtube.com/vi/_CojUOf6zsQ/0.jpg</imageUrl>
+        <videoId>_CojUOf6zsQ</videoId>
+    </movie>
+    <movie>
+        <title>The Mysteries of Pittsburg | Sienna Miller | ROMANCE | Full Movie in English</title>
+        <year>2008</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Na osnovu romana Michaela Chabona, filmske hronike definisano leto nedavnog diplomiranja fakulteta koji prelazi oca gangstera i istražuje ljubav, seksualnost i enigme koji okružuju njegov život i njegov grad.</description>
+        <imageUrl>https://img.youtube.com/vi/sitHax-qZbE/0.jpg</imageUrl>
+        <videoId>sitHax-qZbE</videoId>
+    </movie>
+    <movie>
+        <title>Another Chance to Live | Harvey Keitel (Thelma & Louise) | DRAMA | Full Movie in English</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/YvkO_Cr31-o/0.jpg</imageUrl>
+        <videoId>YvkO_Cr31-o</videoId>
+    </movie>
+    <movie>
+        <title>A Final Promise | DRAMA, ROMANCE | Full Movie in English</title>
+        <year>2019</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>FIORE U LjUBAVU PUTUJE I RAZGOVARA DO DARENE SA FLANCE PLANETU I KRISTALNO JE BILO KRISTALNOM BUBBLE KRSTOM UNIVERZIMU u potrazi za pravom ljubavlju.</description>
+        <imageUrl>https://img.youtube.com/vi/1Pi8Lf-r4bM/0.jpg</imageUrl>
+        <videoId>1Pi8Lf-r4bM</videoId>
+    </movie>
+    <movie>
+        <title>Wild Heart | Tom Hughes (About Time) | ROMANCE | Full Movie</title>
+        <year>1956</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Na Karipskom ostrvu Martiniku, dve polu braće su uključene u zaplete o neozbiljnoj i izračunavanju mlade žene.</description>
+        <imageUrl>https://img.youtube.com/vi/mTS70jK_B7w/0.jpg</imageUrl>
+        <videoId>mTS70jK_B7w</videoId>
+    </movie>
+    <movie>
+        <title>Love's Kitchen | Claire Forlani (Meet Joe Black) | ROMANCE | Full Movie in English</title>
+        <year>2011</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>ROB HALEI, ANT-AND-AUTO-CHEF i RESTORANTIR u Londonu je pogođen tugom kada izgubi svoju ženu. Uz ohrabrenje od svog zloglasnog prijatelja i stvarnog života TV Chef Gordon Ramsai, Rob odlučuje da začini svoj život pretvorilo je pabu za pakovanje na gurmanski restoran. Njegova hrana hvata oko - i ukusnu pupoljku - prelepih američkih prehrambenih kritičara Kate Templeton i uskoro i napisuju recept za ljubav koja ostavlja i njihova srca - i stomak - u punom stomaku.</description>
+        <imageUrl>https://img.youtube.com/vi/DLDI68idyZQ/0.jpg</imageUrl>
+        <videoId>DLDI68idyZQ</videoId>
+    </movie>
+    <movie>
+        <title>Chloe & Theo | Dakota Johnson | DRAMA | Full Movie in English</title>
+        <year>1995</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>This short film adapted from the ballet Daphnis and Chloe. The pirates hunt Chloe, capture her, and rape her. Bryaxis, their leader, forces her to dance for him. Syrinx comes to free her... forever.</description>
+        <imageUrl>https://img.youtube.com/vi/gfScB_gjKzQ/0.jpg</imageUrl>
+        <videoId>gfScB_gjKzQ</videoId>
+    </movie>
+    <movie>
+        <title>Hate Crime | DRAMA | Full Movie in English 💎</title>
+        <year>2005</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Robbie Levinson i Trei McCoi iznenada su nailazili na netoleranciju i neprijateljstvo u rukama svog novog suseda, Chris Boid, sin fundamentalistički propovednik.</description>
+        <imageUrl>https://img.youtube.com/vi/SCTsEyzS5MU/0.jpg</imageUrl>
+        <videoId>SCTsEyzS5MU</videoId>
+    </movie>
+    <movie>
+        <title>A Rising Tide | DRAMA, ROMANCE | Full Movie in English</title>
+        <year>2015</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Nakon što je dobro uspostavljen porodični restoran Atlantic Citi, tokom uragana Sandi, mladi kuvar mora brzo da odraste, uzimajući najveće rizike svog života, kako u poslu i u poslu.</description>
+        <imageUrl>https://img.youtube.com/vi/uTsRcp_5zNE/0.jpg</imageUrl>
+        <videoId>uTsRcp_5zNE</videoId>
+    </movie>
+    <movie>
+        <title>Two 4 One | ROM-COM | Full Movie in English</title>
+        <year>2014</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Kada Adam pomaže svojoj hranjivoj bivšoj devojci Miriam veštački, pretvara se u štand za jednu noć - i obojica su zatrudnili. Vidite, Adam je prešao na život kao muškarac. Sada je rastrgao između svojih osećanja prema Miriamu i njegove potrebe za muškim identitetom, ADAM mora shvatiti da li će se smiriti i imati dete ili samo pokušati da bude jedan od momaka.</description>
+        <imageUrl>https://img.youtube.com/vi/U-5b-l5qay0/0.jpg</imageUrl>
+        <videoId>U-5b-l5qay0</videoId>
+    </movie>
+    <movie>
+        <title>TOPPER | DRAMA | Full Movie in English</title>
+        <year>2025</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Jednom kada vrhunski komičar, Topper brzo padne sa milosti i nađe se boreći da bi se postigao u sceni komedije Cutthroat-a. Njegova nemogućnost suočavanja i prihvatanja njegovog detinjstva držala ga je da napreduje. Nakon neočekivane posete duha njegove prošlosti, Topper se mora vratiti u Detroit da se suoči sa njegovom prošlošću i pomiri se sa svojim demonima, pre snova i verovatno i samostalno umre.</description>
+        <imageUrl>https://img.youtube.com/vi/yocWR7dRRUs/0.jpg</imageUrl>
+        <videoId>yocWR7dRRUs</videoId>
+    </movie>
+    <movie>
+        <title>GOSSIP (TRAČ) film sa prevodom</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/nonRYeEaXBE/0.jpg</imageUrl>
+        <videoId>nonRYeEaXBE</videoId>
+    </movie>
+    <movie>
+        <title>Bite Me | ROMANCE, COMEDY | Full Movie in English</title>
+        <year>2019</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Subverzivna romantična komedija o subkultuaciji u stvarnom životu ljudi koji veruju da su vampiri i IRS agent koji ih revizuju.</description>
+        <imageUrl>https://img.youtube.com/vi/tacOythjiM4/0.jpg</imageUrl>
+        <videoId>tacOythjiM4</videoId>
+    </movie>
+    <movie>
+        <title>Gift of Fear | DRAMA | Full Movie in English</title>
+        <year>2023</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Mili je gledao u užasu dok je njena majka ubijena, postajući još jedan mMIV statistika. Sada 17, bivša bivsa posada Mili je kidnala svoju devojku. Tribalni policajci i agent iz savezne nestale i ubijene jedinice su u slučaju, ali Mili je odnekao vlasti jednom ... Neće sačekati ovaj put.</description>
+        <imageUrl>https://img.youtube.com/vi/L62AJEPgCmk/0.jpg</imageUrl>
+        <videoId>L62AJEPgCmk</videoId>
+    </movie>
+    <movie>
+        <title>Where The Road Runs Out | DRAMA, ROMANCE | Full Movie in English</title>
+        <year>2014</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>George, naučnik koji živi u Roterdamu raste oprezan u svetu akademije. Odjednom smrt starog prijatelja je podsticaj da se treba vratiti u svoje afričke korene gde preuzme propadajuće terenske stanice u džungli Ekvatorijalne Gvineje. Tamo upoznaje siročad sa sunčanim raspoloženjem koji otvara Georgeove oprezne oči na ovo životno mesto. Dečak igra između Georgea i dame koji vodi lokalno sirotište i sve se čini ružicom dok se stariji prijatelj Georgea ne pokaže niotkuda da svoje živote ne baci u nerašio da otkrije da George otkrije na putu za otkupljenje puta i još nekoliko.</description>
+        <imageUrl>https://img.youtube.com/vi/VbwiT6h_yvs/0.jpg</imageUrl>
+        <videoId>VbwiT6h_yvs</videoId>
+    </movie>
+    <movie>
+        <title>12 MONTH | ROMANCE, DRAMA | Full Movie in English</title>
+        <year>1983</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Movie about Stalinism. The film was shot in 1971, but, according to the testimony of Škanata himself, at the closed screening, the then leaders of the SK Serbia Latinka Perović and Draža Marković told him that "it is good, but it is not yet time to show it". It was not shown until twelve years later.</description>
+        <imageUrl>https://img.youtube.com/vi/jyMwjmKNTSg/0.jpg</imageUrl>
+        <videoId>jyMwjmKNTSg</videoId>
+    </movie>
+    <movie>
+        <title>Safe Harbour | ROMANCE | Full Movie in English</title>
+        <year>2007</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Melissa Gilbert Stars u ovoj filmskoj adaptaciji bestsela danielle čeličnog bestsela, u kojem je mlada devojka po imenu Pip i njena majka upoznaju umetnika na plaži u sigurnoj luci, gde su se povukli kako bi se povukli da se oporave od razarajućeg gubitka Pipovog oca i brata.</description>
+        <imageUrl>https://img.youtube.com/vi/n5VjWd80IaI/0.jpg</imageUrl>
+        <videoId>n5VjWd80IaI</videoId>
+    </movie>
+    <movie>
+        <title>Saving Paradise | Johanna Braddy (Quantico) | ROMANCE, DRAMA | Full Movie in English</title>
+        <year>2021</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Grozno korporativni napadač primoran je da se vrati u svoje male gradske korene gde iznenada nasleđuje svoju oca skoro bankrotirajući fabriku olovke, što je srce i duša depresivne zajednice. Pomoću krajnjeg roka za otkopčavanje isključivanja mora se odlučiti ili da ga pusti da se zatvori ili se pridruži borbi zajednice da ga sačuva.</description>
+        <imageUrl>https://img.youtube.com/vi/Coq9O2-kCTU/0.jpg</imageUrl>
+        <videoId>Coq9O2-kCTU</videoId>
+    </movie>
+    <movie>
+        <title>Crazy, The Man Behind The Legend | Ali Larter (Landman) | ROMANCE, BIOPIC | Full Movie in English</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/MGFmN2Jbdd0/0.jpg</imageUrl>
+        <videoId>MGFmN2Jbdd0</videoId>
+    </movie>
+    <movie>
+        <title>The Adventures of Pepper & Paula | FAMILY | Full Movie in English</title>
+        <year>1961</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>The forest is a home to many animals, and they each have their own worries. Thus, a bear has to look after an apiary to collect honey, a bunny likes to dance, frogs and fish swim in the pond. Suddenly the idyll gets broken because of the poisoned water, which can cause death to the river inhabitants. One of the fishes calls the editorial office with the hope that she would not get a refusal to help...</description>
+        <imageUrl>https://img.youtube.com/vi/N8ekJM1n5fw/0.jpg</imageUrl>
+        <videoId>N8ekJM1n5fw</videoId>
+    </movie>
+    <movie>
+        <title>𝐓𝐑𝐈𝐒𝐓𝐀𝐍 & 𝐈𝐒𝐎𝐋𝐃𝐄 - 𝐄𝐩𝐬𝐤𝐚 𝐫𝐨𝐦𝐚𝐧𝐭𝐢č𝐧𝐚 𝐩𝐫𝐢č𝐚 𝐬𝐚 𝐩𝐫𝐞𝐯𝐨𝐝𝐨𝐦</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/lPVr8_cAe_Q/0.jpg</imageUrl>
+        <videoId>lPVr8_cAe_Q</videoId>
+    </movie>
+    <movie>
+        <title>Christmas on the Coast | ROMANCE | Full Movie in English</title>
+        <year>2018</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Hard-hearted New York novelist Dru Cassadine...known for her holiday romance stories (even though she is antilove and anti-Christmas)...is desperate to get her mojo back after a string of flops (and a not-so-subtle threat by her publisher that he'll drop her if she has another failure). She decides that a change of scenery might get her creative juices flowing and heads south for the winter, landing in a place known as Harbor Pointe. She doesn't quite get what she came for. She gets much more.</description>
+        <imageUrl>https://img.youtube.com/vi/W7Nv-NAV5pI/0.jpg</imageUrl>
+        <videoId>W7Nv-NAV5pI</videoId>
+    </movie>
+    <movie>
+        <title>The Healer | Oliver Jackson-Cohen, Camilla Luddington | DRAMA | Full Movie in English</title>
+        <year>2017</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Film prati čoveka sa neželjenim poklonom za isceljivanje ko susreće tinejdžer sa rakom koji mu pomaže da se nađe.</description>
+        <imageUrl>https://img.youtube.com/vi/7KEniefuOow/0.jpg</imageUrl>
+        <videoId>7KEniefuOow</videoId>
+    </movie>
+    <movie>
+        <title>10 Things We Should Do Before We Break Up | DRAMA, ROMANCE | Full Movie in English</title>
+        <year>2020</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Iskre leti kada samozadovoljna samohrana Majka Abigail zadovoljava magnetni višegodišnju Bacheloru Ben. Na njihov prvi sastanak sarađuju - u Jest-u - na krajnjoj listi: 10 stvari koje treba da urade zajedno pre nego što se rašire. Ali kada sudbina interveniše, oni se ubrzo kreću na najzadovoljniji put svega - zgrada porodice zajedno i šanse da trguju svojim cinizmom za nadu.</description>
+        <imageUrl>https://img.youtube.com/vi/87Dr05wjmZU/0.jpg</imageUrl>
+        <videoId>87Dr05wjmZU</videoId>
+    </movie>
+    <movie>
+        <title>30 And Single | COMEDY, ROMANCE | Full Movie in English</title>
+        <year>2011</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Ing je odbačen od strane njenog dugogodišnjeg dečka kada je na zreli starosti 32 godine. Armiti Teller kaže da ako uskoro ne nađe čoveka, onda će morati da sačeka 20 godina pre nego što drugi uđe u njen život.</description>
+        <imageUrl>https://img.youtube.com/vi/GWgK8HZQ-HI/0.jpg</imageUrl>
+        <videoId>GWgK8HZQ-HI</videoId>
+    </movie>
+    <movie>
+        <title>Love & Scandal | ROMANCE | Full Movie in English</title>
+        <year>2025</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Ljubavni tinejdžeri planira da osvoji školsku srcu tako što će odlaziti iz kovrdžavog do ravne kose - dok ne promijeni novi student koji je ne promijeni.</description>
+        <imageUrl>https://img.youtube.com/vi/vo13xbfF4l4/0.jpg</imageUrl>
+        <videoId>vo13xbfF4l4</videoId>
+    </movie>
+    <movie>
+        <title>Inside Game | Eric Mabius (Ugly Betty) | Sport, Drama | Full Movie in English</title>
+        <year>2019</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>U 2007. godini, kada je NBA sudija Tima Donaghi uhvatio da je kladio na igri koji je radio, rekao je da su dva muškarca povezana sa porodicom GAMBIONA ZLOČINA - KLOKILIZACIJIVAČI DALjEM TOMMI MARTINO - Prijetila je da će ubiti porodicu da će im ubiti svoju porodicu ako im ne daju svoje porodice. To je ono što je Donaghi rekao FBI-u, to je ono što je rekao 60 minuta, i to je svedočio na sudu. Ali to se nije ono što se zaista dogodilo. To nije ni blizu. Unutrašnja igra je neispričana istinita priča o jednom od najvećih skandala u istoriji sportskih istorija.</description>
+        <imageUrl>https://img.youtube.com/vi/NeA65yM-HlI/0.jpg</imageUrl>
+        <videoId>NeA65yM-HlI</videoId>
+    </movie>
+    <movie>
+        <title>Here Awhile | Anna Camp (Pitch Perfect) | DRAMA | Full Movie in English</title>
+        <year>2019</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Terminalna bolesna Anna se vraća u Oregon da se ponovo poveže sa otuđenim bratom, a istovremeno čini izbor srčanog ishrane da joj okonča život koji će joj okončati život da se smrt koristi dostojanstveno delo.</description>
+        <imageUrl>https://img.youtube.com/vi/4VqaX5sYAxQ/0.jpg</imageUrl>
+        <videoId>4VqaX5sYAxQ</videoId>
+    </movie>
+    <movie>
+        <title>The Dream House | DRAMA | Full Movie in English</title>
+        <year>1993</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Goran kupuje kuću u predgrađu. Potrebno joj je popravke, ali Goran smatra da je i sam mogao da je popravi samo pomoć nekih jeftinih zanatlija. Međutim, kuća je mnogo gora nego što je mislila. U isto vreme, banda prevara traži dinamit koji su se pre neko vreme sakrili u podrumu. GORAN mora da spasi i njegov novčanik od pohlepnih zanatlija, kao i njegov brak sa Tinom.</description>
+        <imageUrl>https://img.youtube.com/vi/ZJVWtyBEcfI/0.jpg</imageUrl>
+        <videoId>ZJVWtyBEcfI</videoId>
+    </movie>
+    <movie>
+        <title>The Christ Slayer | DRAMA, EPIC | Full Movie in English</title>
+        <year>2019</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Odvija se na Pashu i danima koji slijede raspeće. Kombinacija Svetog pisma i hrišćanske legende isprobavaju i stvorila potpuniju sliku. Slijedi Longinus kao rimski vojnik koji je Spear stavio Isusu na krstu.</description>
+        <imageUrl>https://img.youtube.com/vi/qNpm18P0MEk/0.jpg</imageUrl>
+        <videoId>qNpm18P0MEk</videoId>
+    </movie>
+    <movie>
+        <title>Class of '85 | DRAMA, ROMANCE | Full Movie in English</title>
+        <year>2022</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Nostalgični film o neortodoksnoj učitelju, svima želimo da imamo, devojku koju smo svi pali, a prijatelj nismo očekivali da ćemo napraviti.</description>
+        <imageUrl>https://img.youtube.com/vi/g6qq6Xf0DPw/0.jpg</imageUrl>
+        <videoId>g6qq6Xf0DPw</videoId>
+    </movie>
+    <movie>
+        <title>The Girl Who Left Home | DRAMA | Full Movie in English</title>
+        <year>2020</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Nakon što je nagli prolazak njenog oca, Christine se suoči sa komplikovanom prošlošću koju je ostavila iza sebe. Sa porodičnom obavezom i pritiskom njene žaloške majke, Christine mora da se odluči da sačuva porodični restoran ili da sprovodi svoje snove.</description>
+        <imageUrl>https://img.youtube.com/vi/HStANz2Sa7s/0.jpg</imageUrl>
+        <videoId>HStANz2Sa7s</videoId>
+    </movie>
+    <movie>
+        <title>Navigating Love | ROM COM | Full Movie in English</title>
+        <year>N/A</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/MS_lVk31cP8/0.jpg</imageUrl>
+        <videoId>MS_lVk31cP8</videoId>
+    </movie>
+    <movie>
+        <title>How to Solve your own Murder | DRAMA | Full Movie in English</title>
+        <year>2024</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Nemotana mlada žena pretpostavlja svoj identitet svog dvostruke u paralelnoj dimenziji da pokuša da reši njenog pokušaja ubistva.</description>
+        <imageUrl>https://img.youtube.com/vi/cRhi2CHrUNE/0.jpg</imageUrl>
+        <videoId>cRhi2CHrUNE</videoId>
+    </movie>
+    <movie>
+        <title>Bread My Sweet | ROMANCE | Full Movie in English</title>
+        <year>2001</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Dominic radi oko sata: Noći praveći biscotte za pekaru njegove porodice u italijanskom susedstvu u Radnoj klasi u Pittsburghu, a zatim dani u centru grada gde je specijalista za ispaljivanje ljudi u kompaniji koja pregovara o spajanju. Bačen je na petlju sa čitanjem koji uči da je Bella, stariji komšija koji je najbliži prijatelj njegova porodica, ima samo nekoliko meseci da živi. Ceo njen život, spasio je novac u kafema kafe za svoju ćerku, Lucca, venčanje, ali Lucca je isključen u stranim zemljama, u početku kao mirovni korpus, a ne treba mu muškarac. Dominik obećava da će dovesti Lucca kući i ubediti je da se oženi za njega da ispuni Bellovu najneždužniju želju. Šta će reći Lucca?</description>
+        <imageUrl>https://img.youtube.com/vi/NZ4C27vgNqE/0.jpg</imageUrl>
+        <videoId>NZ4C27vgNqE</videoId>
+    </movie>
+    <movie>
+        <title>CARALIQUE | DRAMA, FAMILY | Full Movie in English</title>
+        <year>2022</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Mladi, aspirirani modni dizajner želi da dovede više iskra u svet i uljepšava ga za one oko sebe. Uprkos tome što se ne rečeno ne na njenim početnim idejama, ona uči da se drži njenih instinkta i da se nikada ne odriče svojih snova.</description>
+        <imageUrl>https://img.youtube.com/vi/H_DuFlczHSc/0.jpg</imageUrl>
+        <videoId>H_DuFlczHSc</videoId>
+    </movie>
+    <movie>
+        <title>Game Day | COMEDY, DRAMA | Full Movie in English</title>
+        <year>2019</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Košarkaško-savvi tinejdžerka nevoljko pristaje da trenira sjajan, ali samocentrični tehnološki vič koji je izgubio sve kada je njeno startop poprsje i lični život ostaje u ruševinama. Otkrivanje da je uspeh na njenom novom poslu ovisi da postane timski igrač u kancelariji i na kompaniji, sve do sada, sve-muško košarkaški tim, ona je u očajnom pokušaju u očajnom pokušaju da spasi svoj posao i njeno biće zauvek da će zauvek biti i svoje iskustvo koje na kraju svoje živote zauvek menja.</description>
+        <imageUrl>https://img.youtube.com/vi/IgzUVH0FfE0/0.jpg</imageUrl>
+        <videoId>IgzUVH0FfE0</videoId>
+    </movie>
+    <movie>
+        <title>A Bennett Song Holiday | ROMANCE, FAMILY | Full Movie in English</title>
+        <year>2020</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Jedinstvena porodica Bennett-pesma uči istinsko značenje praznika dok rešavaju krizu u zajednici i prilagođavaju se velikim promenama. Sve što želite u prazničnom filmu: ljubav, moć verovanja, smeha, suze i nove muzičke klasike.</description>
+        <imageUrl>https://img.youtube.com/vi/TfeSawZ1aDg/0.jpg</imageUrl>
+        <videoId>TfeSawZ1aDg</videoId>
+    </movie>
+    <movie>
+        <title>Hello, my Name is Frank | COMEDY | Full Movie in English</title>
+        <year>2015</year>
+        <genre>Romansa</genre>
+        <type>film</type>
+        <description>Komedija o Franku, pustinjaku sa Tourette sindromom koji je gurnuti u oštre stvarnosti sveta kada njegov negovatelj umre. Nakon što je prepoznao da je Frank očajan, negovatelja tinejdžerke, Laura, prevuče nevoljni frank na putu za promjenu života sa Laurom i njenim prijateljima. - Garrett M. Brovn, Rachel Dipillo, Mari Kate Viles</description>
+        <imageUrl>https://img.youtube.com/vi/jtfuTyYi5PE/0.jpg</imageUrl>
+        <videoId>jtfuTyYi5PE</videoId>
+    </movie>
     </category>
 
