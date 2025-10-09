@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<movies>
+    <category name="Komedija">
+
+
     <movie>
         <title>The Perfect Man's a Plant !</title>
         <year>N/A</year>
@@ -972,4 +973,4 @@
         <imageUrl>https://img.youtube.com/vi/6Q40FmLyqK4/0.jpg</imageUrl>
         <videoId>6Q40FmLyqK4</videoId>
     </movie>
-</movies>
+    </category>
