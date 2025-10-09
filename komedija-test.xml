@@ -1,0 +1,30 @@
+    <category name="Komedija">
+        <movie>
+            <title>Altana 37 Rodjendan</title>
+            <year>1975</year>
+            <genre>Komedija</genre>
+            <type>film</type>
+            <description>Altana 37 Rodjendan</description>
+            <imageUrl>https://img.youtube.com/vi/76sGocRBVcE/0.jpg</imageUrl>
+            <videoId>76sGocRBVcE</videoId>
+        </movie>
+        <movie>
+            <title>Altana 38 rodjendan</title>
+            <year>1975</year>
+            <genre>Komedija</genre>
+            <type>film</type>
+            <description>Altana 38 rodjendan</description>
+            <imageUrl>https://img.youtube.com/vi/ciXm-5VUo4I/0.jpg</imageUrl>
+            <videoId>ciXm-5VUo4I</videoId>
+        </movie>
+        <movie>
+            <title>Altana 38 rodjendan</title>
+            <year>1975</year>
+            <genre>Komedija</genre>
+            <type>film</type>
+            <description>Altana 38 rodjendan</description>
+            <imageUrl>https://img.youtube.com/vi/ciXm-5VUo4I/0.jpg</imageUrl>
+            <videoId>ciXm-5VUo4I</videoId>
+        </movie>
+
+    </category>

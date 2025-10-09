@@ -1,31 +1,130 @@
     <category name="Dokumentarni">
-        <movie>
-            <title>leontina show</title>
-            <year>2005</year>
-            <genre>Dokumentarni</genre>
-            <type>film</type>
-            <description> leontina show</description>
-            <imageUrl>https://img.youtube.com/vi/IeJ_69b56_E/0.jpg</imageUrl>
-            <videoId>IeJ_69b56_E</videoId>
-        </movie>
-        <movie>
-            <title>Leontina </title>
-            <year>2005</year>
-            <genre>Dokumentarni</genre>
-            <type>film</type>
-            <description>Leontina  </description>
-            <imageUrl>https://img.youtube.com/vi/ByOnx41LhMs/0.jpg</imageUrl>
-            <videoId>ByOnx41LhMs</videoId>
-        </movie>
-        <movie>
-            <title>Leontina nova bicikla</title>
-            <year>2005</year>
-            <genre>Dokumentarni</genre>
-            <type>film</type>
-            <description>Leontina nova bicikla </description>
-            <imageUrl>https://img.youtube.com/vi/Y_XAuQHJ8qk/0.jpg</imageUrl>
-            <videoId>Y_XAuQHJ8qk</videoId>
-        </movie>
+    <movie>
+        <title>On the traces of an Ancient Civilization?  🗿 What if we have been mistaken on our past?</title>
+        <year>N/A</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/gcdToc0ibbQ/0.jpg</imageUrl>
+        <videoId>gcdToc0ibbQ</videoId>
+    </movie>
+    <movie>
+        <title>Josip Broz TITO najbolji INTERVJU ikada!</title>
+        <year>N/A</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/_Bfv0EV94OM/0.jpg</imageUrl>
+        <videoId>_Bfv0EV94OM</videoId>
+    </movie>
+    <movie>
+        <title>DAN MLADOSTI</title>
+        <year>N/A</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/p9KvA9v7Tlk/0.jpg</imageUrl>
+        <videoId>p9KvA9v7Tlk</videoId>
+    </movie>
+    <movie>
+        <title>MISIJA SILOVANJE oružje rata i etničkog čišćenja - Dokumentarni Film</title>
+        <year>N/A</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/p9E8fDE2w1w/0.jpg</imageUrl>
+        <videoId>p9E8fDE2w1w</videoId>
+    </movie>
+    <movie>
+        <title>On the traces of an Ancient Civilization? The Sequel to the documentary event</title>
+        <year>N/A</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/RgBWmwIizeY/0.jpg</imageUrl>
+        <videoId>RgBWmwIizeY</videoId>
+    </movie>
+    <movie>
+        <title>Follow Me | TikTok Girl Mini-Series in English</title>
+        <year>2020</year>
+        <genre>...</genre>
+        <type>film</type>
+        <description>Ličnost sa društvenih mreža putuje sa svojim prijateljima u Moskvu kako bi snimio novi sadržaj za svoj uspešni vlog. Uvek pomerajući granice i zadovoljavajući rastuću publiku, oni ulaze u hladan svet misterije, viška i opasnosti. Kada se granice između stvarnog života i društvenih medija zamagle, grupa mora da se bori da pobegne i preživi.</description>
+        <imageUrl>https://img.youtube.com/vi/cNTpnMpIdvI/0.jpg</imageUrl>
+        <videoId>cNTpnMpIdvI</videoId>
+    </movie>
+    <movie>
+        <title>Cristiano Ronaldo, The Man Behind the Myth | FOOTBALL | Full Documentary in English</title>
+        <year>N/A</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/MTSzX7XuLjk/0.jpg</imageUrl>
+        <videoId>MTSzX7XuLjk</videoId>
+    </movie>
+    <movie>
+        <title>A Tree For Israel : Searching For Family Roots | Documentary | Full Movie in English</title>
+        <year>N/A</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/MUuPEwPOEIw/0.jpg</imageUrl>
+        <videoId>MUuPEwPOEIw</videoId>
+    </movie>
+    <movie>
+        <title>Josip Broz TITO (</title>
+        <year>1980</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>Documentary film thay depicts the life and career of the then Yugoslav president Josip Broz Tito. It represents the second film Škanata made about Tito's life (after the short film Tito three years earlier, i.e. the last film made about Tito during his lifetime).</description>
+        <imageUrl>https://img.youtube.com/vi/z3Ljy_nrgPg/0.jpg</imageUrl>
+        <videoId>z3Ljy_nrgPg</videoId>
+    </movie>
+    <movie>
+        <title>💎 The Founders : these 13 women who changed sports forever | Sports, Golf Documentary</title>
+        <year>N/A</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/HNY-71u4FIc/0.jpg</imageUrl>
+        <videoId>HNY-71u4FIc</videoId>
+    </movie>
+    <movie>
+        <title>Out Of Print | Tom Holland, Joe Dante, Kevin Smith, Rian Johnson | Full Movie | Documentary</title>
+        <year>2014</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>Dokumentarni film koji istražuje značaj bioskopa preporoda i izložbe od 35 mm - gledano kroz objektiv pokrovitelja Novog bioskopa Beverli - jedinstvenog i nezavisnog bioskopa preporoda u Los Anđelesu.</description>
+        <imageUrl>https://img.youtube.com/vi/xZ4hWyURVAU/0.jpg</imageUrl>
+        <videoId>xZ4hWyURVAU</videoId>
+    </movie>
+    <movie>
+        <title>RIZE | DOCUMENTARY | Full Documentary in English</title>
+        <year>2005</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>Dokumentarni film koji ističe dva ulična plesna stila, klovnovstvo i krumping, koji su došli iz četvrti sa niskim primanjima u Los Anđelesu. Reditelj Dejvid LaŠapel intervjuiše svaku plesnu ekipu o tome kako su se razvili njihovi jedinstveni plesovi. Nova i pozitivna aktivnost daleko od droge, oružja i bandi koje su vladale njihovim susjedstvom. Sirovi film o rastućim pokretima subkulture u Americi.</description>
+        <imageUrl>https://img.youtube.com/vi/9kzl89KYhGU/0.jpg</imageUrl>
+        <videoId>9kzl89KYhGU</videoId>
+    </movie>
+    <movie>
+        <title>180 Film</title>
+        <year>1991</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>Smrt juri devojčicu i njenog oca.</description>
+        <imageUrl>https://img.youtube.com/vi/wFiylRxOVgk/0.jpg</imageUrl>
+        <videoId>wFiylRxOVgk</videoId>
+    </movie>
+    <movie>
+        <title>KOMANDIR ŠAMIL - Dokumentarni Film</title>
+        <year>N/A</year>
+        <genre>Domaci film</genre>
+        <type>film</type>
+        <description>...</description>
+        <imageUrl>https://img.youtube.com/vi/nuCvAQ0D0tc/0.jpg</imageUrl>
+        <videoId>nuCvAQ0D0tc</videoId>
+    </movie>
 
     </category>
 
