@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<movies>
+<category name="Domaci filmovi">
     <movie>
         <title>Sesir profesora Koste Vujica</title>
         <year>2012</year>
@@ -4464,4 +4463,4 @@
         <imageUrl>https://img.youtube.com/vi/e-NM8vDmwA4/0.jpg</imageUrl>
         <videoId>e-NM8vDmwA4</videoId>
     </movie>
-</movies>
+</category>
