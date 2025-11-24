@@ -1694,6 +1694,33 @@ Dolaskom u rodni grad Slobodan pokušava da pronađe svoje mesto u društvu i si
       </seasons>
     </movie>
   <movie>
+    <title>Blago nama</title>
+    <year>2020</year>
+    <genre>Domaci</genre>
+    <type>serija</type>
+    <description>Serija govori o porodici koja je delimično prinuđena da živi pod jednim krovom. Ana i Boris su mlad bračni par, u koji su se, igrom slučaja, iznenada preselila njena sestra i cela njena porodica, kao i on i Anin otac.</description>
+    <imageUrl>https://img.youtube.com/vi/DejnFq--VQs/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/DejnFq--VQs/0.jpg</imageUrl>
+          <videoId>DejnFq--VQs</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/KZHjecaw3pI/0.jpg</imageUrl>
+          <videoId>KZHjecaw3pI</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/0au9sU9MATU/0.jpg</imageUrl>
+          <videoId>0au9sU9MATU</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
     <title>Složna braća</title>
     <year>Nedostupno</year>
     <genre>Comedy</genre>
@@ -1731,6 +1758,23 @@ Dolaskom u rodni grad Slobodan pokušava da pronađe svoje mesto u društvu i si
           <title></title>
           <imageUrl>https://img.youtube.com/vi/ndSkpzXgF-Q/0.jpg</imageUrl>
           <videoId>ndSkpzXgF-Q</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Kotlina</title>
+    <year>2022</year>
+    <genre>Mystery</genre>
+    <type>serija</type>
+    <description>Nakon otkrivanja mrtvog tela u Narodnom muzeju, inspektor Edib i Mido su pozvani na mesto zločina. Ali nestanak tela i skriveni motivi Muzeja dovode ih do mreže korupcije i međunarodnog kriminala.</description>
+    <imageUrl>https://img.youtube.com/vi/4n_1L2B3SC4/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/4n_1L2B3SC4/0.jpg</imageUrl>
+          <videoId>4n_1L2B3SC4</videoId>
           </episode>
         </season>
       </seasons>
@@ -1880,6 +1924,59 @@ Dolaskom u rodni grad Slobodan pokušava da pronađe svoje mesto u društvu i si
           <title></title>
           <imageUrl>https://img.youtube.com/vi/3Ceh_H6AsiU/0.jpg</imageUrl>
           <videoId>3Ceh_H6AsiU</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Crno bijeli svijet</title>
+    <year>2015</year>
+    <genre>Comedy</genre>
+    <type>serija</type>
+    <description>Ova emisija govori o vremenu u bivšoj Jugoslaviji, uglavnom Gradu Zagrebu krajem 70-ih i početkom 80-ih. Na dramatičan i duhovit način pokušava da opiše život ovog velikog jugoslovenskog doba kroz 3 generacije ljudi. To je priča o ljubavi, porodičnim problemima sa velikim uticajem urbane kulture i muzičke scene u Jugoslaviji. Vreme velike muzike u Jugoslaviji kao što su rok i novi talas, ali i pomalo turbulentno vreme neposredno nakon Titove smrti.</description>
+    <imageUrl>https://img.youtube.com/vi/C_UE2eGItdg/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/C_UE2eGItdg/0.jpg</imageUrl>
+          <videoId>C_UE2eGItdg</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Igra sudbine</title>
+    <year>2020</year>
+    <genre>Drama</genre>
+    <type>serija</type>
+    <description>Dve bebe, Aleksa i Luka, slučajno su zamenjeni u bolnici. Trideset godina kasnije, Aleksa je bogat i uspešan biznismen, dok je Luka siromašan i jedva preživljava. Kada im medicinska sestra koja je zamenila njih dvoje kaže šta je uradila, njihovi životi se potpuno menjaju.</description>
+    <imageUrl>https://img.youtube.com/vi/6TWN54O4Ayo/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/6TWN54O4Ayo/0.jpg</imageUrl>
+          <videoId>6TWN54O4Ayo</videoId>
+          </episode>
+        </season>
+      <season number="2">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/kHIldDdeuAw/0.jpg</imageUrl>
+          <videoId>kHIldDdeuAw</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/1zMVktv0qqo/0.jpg</imageUrl>
+          <videoId>1zMVktv0qqo</videoId>
+          </episode>
+        </season>
+      <season number="4">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/hFJDv6MMdKs/0.jpg</imageUrl>
+          <videoId>hFJDv6MMdKs</videoId>
           </episode>
         </season>
       </seasons>
@@ -2187,6 +2284,23 @@ Dolaskom u rodni grad Slobodan pokušava da pronađe svoje mesto u društvu i si
           <title></title>
           <imageUrl>https://img.youtube.com/vi/JD_gDQXlfn0/0.jpg</imageUrl>
           <videoId>JD_gDQXlfn0</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Valter brani Sarajevo</title>
+    <year>1974</year>
+    <genre>War &amp; Politics</genre>
+    <type>serija</type>
+    <description>Proširena verzija istoimenog igranog filma.</description>
+    <imageUrl>https://img.youtube.com/vi/RA5co3R1Qlk/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/RA5co3R1Qlk/0.jpg</imageUrl>
+          <videoId>RA5co3R1Qlk</videoId>
           </episode>
         </season>
       </seasons>
@@ -3450,6 +3564,28 @@ Dolaskom u rodni grad Slobodan pokušava da pronađe svoje mesto u društvu i si
       </seasons>
     </movie>
   <movie>
+    <title>Vratiće se Rode</title>
+    <year>2007</year>
+    <genre>Drama</genre>
+    <type>serija</type>
+    <description>Junaci serije su Ekser i Švabo, dva prijatelja koji iz dana u dan preživljavaju preprodajom ukradene robe. Iznenadno nasledstvo koje neko od njih dobije i činiće im se da je spas na pomolu i da će prodaja kuće rešiti sve probleme. Pre svega, finansijske prirode, jer su dužni veoma opasnim ljudima, dok će meštani sela u kome se nalazi imanje pomisliti da im spas za probleme dolaze u liku naša dva heroja. Komšije će ih doživljavati kao biznismene koji će umeti da preokrenu sumorni izgled zabačenog vojvođanskog sela.</description>
+    <imageUrl>https://img.youtube.com/vi/XdUc3DRDxpo/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/XdUc3DRDxpo/0.jpg</imageUrl>
+          <videoId>XdUc3DRDxpo</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/w1RcHUYx96w/0.jpg</imageUrl>
+          <videoId>w1RcHUYx96w</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
     <title>Povratak otpisanih</title>
     <year>1978</year>
     <genre>Akcioni i avanturistički</genre>
@@ -3629,6 +3765,23 @@ Dolaskom u rodni grad Slobodan pokušava da pronađe svoje mesto u društvu i si
           <title></title>
           <imageUrl>https://img.youtube.com/vi/QsFfln9-0ps/0.jpg</imageUrl>
           <videoId>QsFfln9-0ps</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>LJUBAV, NAVIKA, PANIKA (</title>
+    <year>2005</year>
+    <genre>Comedy</genre>
+    <type>serija</type>
+    <description>Ljubav, navika, panika je serijal srpske televizije, prvobitno emitovan od 6. februara 2005. do 1. aprila 2007. na RTV Pink. Zlatna ruža iz Montrea 2005. godine proglasila je ovu seriju jednom od najboljih televizijskih serija. Ovo je jedna od najpopularnijih srpskih televizijskih serija 2000-ih. Glavne uloge tumačili su neki od najboljih srpskih komediografija Seka Sablić, Nikola Simić i Zijah Sokolović; i mlade glumice Marija Karan i Mirka Vasiljević. Karan je 2006. zamenila Borka Tomović. U sporednim i gostujućim ulogama su Nada Macanković, Ljiljana Stjepanović, Gorica Popović, Vesna Trivalić itd. Sitkom je sniman u Beogradu.</description>
+    <imageUrl>https://img.youtube.com/vi/KoE_WTzBx4c/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/KoE_WTzBx4c/0.jpg</imageUrl>
+          <videoId>KoE_WTzBx4c</videoId>
           </episode>
         </season>
       </seasons>
@@ -4016,6 +4169,28 @@ Dolaskom u rodni grad Slobodan pokušava da pronađe svoje mesto u društvu i si
           <title></title>
           <imageUrl>https://img.youtube.com/vi/LqLN0BdKLNk/0.jpg</imageUrl>
           <videoId>LqLN0BdKLNk</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Pogrešan čovek</title>
+    <year>Nedostupno</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nismo pronašli opis za ovu seriju.</description>
+    <imageUrl>https://img.youtube.com/vi/xjh0sovzfGI/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/xjh0sovzfGI/0.jpg</imageUrl>
+          <videoId>xjh0sovzfGI</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/f8vFQ2IAxjA/0.jpg</imageUrl>
+          <videoId>f8vFQ2IAxjA</videoId>
           </episode>
         </season>
       </seasons>
@@ -4638,6 +4813,28 @@ Kroz borbu sa životnim izazovima generacije, serija pokušava da dočara i duh 
           <title></title>
           <imageUrl>https://img.youtube.com/vi/URdMmYSoFhI/0.jpg</imageUrl>
           <videoId>URdMmYSoFhI</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Kolo sreće</title>
+    <year>2021</year>
+    <genre>Domaci</genre>
+    <type>serija</type>
+    <description>Ovo je uzbudljiva priča u kojoj je glavna junakinja vredna i skromna žena koja se bori sa svim nedaćama koje nosi život samohrane majke dvoje odrasle dece.</description>
+    <imageUrl>https://img.youtube.com/vi/TDYD5dqnpUA/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/TDYD5dqnpUA/0.jpg</imageUrl>
+          <videoId>TDYD5dqnpUA</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/niTR-VfObSc/0.jpg</imageUrl>
+          <videoId>niTR-VfObSc</videoId>
           </episode>
         </season>
       </seasons>
@@ -5794,6 +5991,45 @@ Kroz borbu sa životnim izazovima generacije, serija pokušava da dočara i duh 
       </seasons>
     </movie>
   <movie>
+    <title>Ljubav i mrznja</title>
+    <year>2007</year>
+    <genre>Soap</genre>
+    <type>serija</type>
+    <description>Serija prati zgode i nezgode bogate beogradske porodice Lazarević. Niko nije preboleo smrt majke, koja je bila stub porodice. Nova Bogdanova supruga Kaća je moralno nesposobna. Ona je temperamentna i često stvara probleme u porodici. Ona takođe krije tajne iz svoje prošlosti koje je progone. U suštini, on je nesigurna osoba i stidi se svojih seljačkih korena.</description>
+    <imageUrl>https://img.youtube.com/vi/opZ3HC1JjaI/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/opZ3HC1JjaI/0.jpg</imageUrl>
+          <videoId>opZ3HC1JjaI</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/leBZ7dLFtiw/0.jpg</imageUrl>
+          <videoId>leBZ7dLFtiw</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Vila Marija</title>
+    <year>Nedostupno</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nismo pronašli opis za ovu seriju.</description>
+    <imageUrl>https://img.youtube.com/vi/mCE80XE_eO0/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/mCE80XE_eO0/0.jpg</imageUrl>
+          <videoId>mCE80XE_eO0</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
     <title>Jedne letnje noci</title>
     <year>2015</year>
     <genre>Soap</genre>
@@ -6012,6 +6248,125 @@ Kroz borbu sa životnim izazovima generacije, serija pokušava da dočara i duh 
           <title></title>
           <imageUrl>https://img.youtube.com/vi/yBMbnYvoijs/0.jpg</imageUrl>
           <videoId>yBMbnYvoijs</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>♣Zauvijek Susjedi Puni Sezona♣</title>
+    <year>Nedostupno</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nismo pronašli opis za ovu seriju.</description>
+    <imageUrl>https://img.youtube.com/vi/oDErpXN9WGU/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/oDErpXN9WGU/0.jpg</imageUrl>
+          <videoId>oDErpXN9WGU</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Crni Gruja</title>
+    <year>2003</year>
+    <genre>Komedija</genre>
+    <type>serija</type>
+    <description>Izbijanje srpskog ustanka protiv Turaka postavlja scenu za uzbudljivu priču. U ovom istorijskom kontekstu srećemo pokvarenog lokalnog princa koji se bori sa željom da pronađe put do boljeg života. Sukob moći, pohlepe, neispunjenih čežnji, ljubavi i mržnje odvija se na pozadini balkanskih događaja 19. veka. Likovi, slikovito prikazani, pronalaze put u borbi za slobodu od turske okupacije. Da li su oni poslednja prepreka koja može da spase Evropu od opasnosti koja dolazi sa Istoka? Odgovor leži u ovoj duhovitoj komediji inspirisanoj stvarnim događajima, dragulju koji nadilazi vreme i prostor.</description>
+    <imageUrl>https://img.youtube.com/vi/G16dT5UgYeU/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/G16dT5UgYeU/0.jpg</imageUrl>
+          <videoId>G16dT5UgYeU</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Ljubav Navika Panika</title>
+    <year>2005</year>
+    <genre>Comedy</genre>
+    <type>serija</type>
+    <description>Ljubav, navika, panika je serijal srpske televizije, prvobitno emitovan od 6. februara 2005. do 1. aprila 2007. na RTV Pink. Zlatna ruža iz Montrea 2005. godine proglasila je ovu seriju jednom od najboljih televizijskih serija. Ovo je jedna od najpopularnijih srpskih televizijskih serija 2000-ih. Glavne uloge tumačili su neki od najboljih srpskih komediografija Seka Sablić, Nikola Simić i Zijah Sokolović; i mlade glumice Marija Karan i Mirka Vasiljević. Karan je 2006. zamenila Borka Tomović. U sporednim i gostujućim ulogama su Nada Macanković, Ljiljana Stjepanović, Gorica Popović, Vesna Trivalić itd. Sitkom je sniman u Beogradu.</description>
+    <imageUrl>https://img.youtube.com/vi/z8C7tWr4JXw/0.jpg</imageUrl>
+    <seasons>
+      <season number="2">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/z8C7tWr4JXw/0.jpg</imageUrl>
+          <videoId>z8C7tWr4JXw</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Baza na Dunavu</title>
+    <year>Nedostupno</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nismo pronašli opis za ovu seriju.</description>
+    <imageUrl>https://img.youtube.com/vi/0EOPFWDfRfs/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/0EOPFWDfRfs/0.jpg</imageUrl>
+          <videoId>0EOPFWDfRfs</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Odeljenje</title>
+    <year>Nedostupno</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nismo pronašli opis za ovu seriju.</description>
+    <imageUrl>https://img.youtube.com/vi/SonUCiXr54M/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/SonUCiXr54M/0.jpg</imageUrl>
+          <videoId>SonUCiXr54M</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Domaća Serija</title>
+    <year>Nedostupno</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nismo pronašli opis za ovu seriju.</description>
+    <imageUrl>https://img.youtube.com/vi/fmw8AgHhO0w/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/fmw8AgHhO0w/0.jpg</imageUrl>
+          <videoId>fmw8AgHhO0w</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Kuku, Vasa</title>
+    <year>Nedostupno</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nismo pronašli opis za ovu seriju.</description>
+    <imageUrl>https://img.youtube.com/vi/_vzK8glTJ9E/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/_vzK8glTJ9E/0.jpg</imageUrl>
+          <videoId>_vzK8glTJ9E</videoId>
           </episode>
         </season>
       </seasons>
