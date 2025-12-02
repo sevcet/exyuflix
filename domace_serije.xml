@@ -1,6 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Domace serije">
   <movie>
+    <title>Banjica</title>
+    <year>1984</year>
+    <genre>Domaci</genre>
+    <type>serija</type>
+    <description>Nismo pronašli opis za ovu seriju.</description>
+    <imageUrl>https://img.youtube.com/vi/CY4qVwX4308/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/CY4qVwX4308/0.jpg</imageUrl>
+          <videoId>CY4qVwX4308</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/fqo2dQv0dWM/0.jpg</imageUrl>
+          <videoId>fqo2dQv0dWM</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/phQv9T6j4mY/0.jpg</imageUrl>
+          <videoId>phQv9T6j4mY</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/bXJz8M4UzSs/0.jpg</imageUrl>
+          <videoId>bXJz8M4UzSs</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Bela lađa</title>
+    <year>Nedostupno</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nismo pronašli opis za ovu seriju.</description>
+    <imageUrl>https://img.youtube.com/vi/i21oxN_B-Xg/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/i21oxN_B-Xg/0.jpg</imageUrl>
+          <videoId>i21oxN_B-Xg</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/CJit8pWrfLo/0.jpg</imageUrl>
+          <videoId>CJit8pWrfLo</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/5lBKx21f-m8/0.jpg</imageUrl>
+          <videoId>5lBKx21f-m8</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
     <title>Komšije</title>
     <year>2015</year>
     <genre>Comedy</genre>
@@ -1604,55 +1663,6 @@ Mileva je glava kuće, sve zna, sve zna i sve se razume. Penzionerka koja je svo
           <title></title>
           <imageUrl>https://img.youtube.com/vi/upECNxCmZwI/0.jpg</imageUrl>
           <videoId>upECNxCmZwI</videoId>
-          </episode>
-        </season>
-      </seasons>
-    </movie>
-  <movie>
-    <title>Banjica</title>
-    <year>1984</year>
-    <genre>Domaci</genre>
-    <type>serija</type>
-    <description>Nismo pronašli opis za ovu seriju.</description>
-    <imageUrl>https://img.youtube.com/vi/CY4qVwX4308/0.jpg</imageUrl>
-    <seasons>
-      <season number="1">
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/CY4qVwX4308/0.jpg</imageUrl>
-          <videoId>CY4qVwX4308</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/fqo2dQv0dWM/0.jpg</imageUrl>
-          <videoId>fqo2dQv0dWM</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/phQv9T6j4mY/0.jpg</imageUrl>
-          <videoId>phQv9T6j4mY</videoId>
-          </episode>
-        </season>
-      </seasons>
-    </movie>
-  <movie>
-    <title>Bela lađa</title>
-    <year>Nedostupno</year>
-    <genre>Domaca serija</genre>
-    <type>serija</type>
-    <description>Nismo pronašli opis za ovu seriju.</description>
-    <imageUrl>https://img.youtube.com/vi/i21oxN_B-Xg/0.jpg</imageUrl>
-    <seasons>
-      <season number="1">
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/i21oxN_B-Xg/0.jpg</imageUrl>
-          <videoId>i21oxN_B-Xg</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/CJit8pWrfLo/0.jpg</imageUrl>
-          <videoId>CJit8pWrfLo</videoId>
           </episode>
         </season>
       </seasons>
