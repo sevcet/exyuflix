@@ -1,80 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Domace serije">
   <movie>
-    <title>Bela lađa</title>
-    <year>Nedostupno</year>
-    <genre>Domaca serija</genre>
-    <type>serija</type>
-    <description>Nismo pronašli opis za ovu seriju.</description>
-    <imageUrl>https://img.youtube.com/vi/i21oxN_B-Xg/0.jpg</imageUrl>
-    <seasons>
-      <season number="1">
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/i21oxN_B-Xg/0.jpg</imageUrl>
-          <videoId>i21oxN_B-Xg</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/CJit8pWrfLo/0.jpg</imageUrl>
-          <videoId>CJit8pWrfLo</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/5lBKx21f-m8/0.jpg</imageUrl>
-          <videoId>5lBKx21f-m8</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/GXHqGivZy84/0.jpg</imageUrl>
-          <videoId>GXHqGivZy84</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/pCdP-v5mRYg/0.jpg</imageUrl>
-          <videoId>pCdP-v5mRYg</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/0AduQ2IOaXw/0.jpg</imageUrl>
-          <videoId>0AduQ2IOaXw</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/JirnJReqZg8/0.jpg</imageUrl>
-          <videoId>JirnJReqZg8</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/quPRajeAFyo/0.jpg</imageUrl>
-          <videoId>quPRajeAFyo</videoId>
-          </episode>
-        </season>
-      </seasons>
-    </movie>
-  <movie>
-    <title>Cvat lipe na Balkanu</title>
-    <year>2011</year>
-    <genre>Drama</genre>
-    <type>serija</type>
-    <description>Nema opisa.</description>
-    <imageUrl>https://img.youtube.com/vi/jXBDlvUyg04/0.jpg</imageUrl>
-    <seasons>
-      <season number="1">
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/jXBDlvUyg04/0.jpg</imageUrl>
-          <videoId>jXBDlvUyg04</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/iqaf_7ObV6A/0.jpg</imageUrl>
-          <videoId>iqaf_7ObV6A</videoId>
-          </episode>
-        </season>
-      </seasons>
-    </movie>
-  <movie>
     <title>Radio Mileva</title>
     <year>2021</year>
     <genre>Comedy</genre>
@@ -159,6 +85,11 @@ Mileva je glava kuće, sve zna, sve zna i sve se razume. Penzionerka koja je svo
           <title></title>
           <imageUrl>https://img.youtube.com/vi/sLjCXCaOfOo/0.jpg</imageUrl>
           <videoId>sLjCXCaOfOo</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/HyCBBgAuWfo/0.jpg</imageUrl>
+          <videoId>HyCBBgAuWfo</videoId>
           </episode>
         <episode>
           <title></title>
@@ -972,85 +903,6 @@ Mileva je glava kuće, sve zna, sve zna i sve se razume. Penzionerka koja je svo
       </seasons>
     </movie>
   <movie>
-    <title>Psi laju, vetar nosi</title>
-    <year>2017</year>
-    <genre>Comedy</genre>
-    <type>serija</type>
-    <description>Priča o ljudima koji žive van velikog grada koji se mešaju u urnebesne situacije i događaje.</description>
-    <imageUrl>https://img.youtube.com/vi/Vz6sgq3LSzw/0.jpg</imageUrl>
-    <seasons>
-      <season number="1">
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/Vz6sgq3LSzw/0.jpg</imageUrl>
-          <videoId>Vz6sgq3LSzw</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/HBN-bYyGFOo/0.jpg</imageUrl>
-          <videoId>HBN-bYyGFOo</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/dA_H1EpPV6I/0.jpg</imageUrl>
-          <videoId>dA_H1EpPV6I</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/Y68_NLkMXCc/0.jpg</imageUrl>
-          <videoId>Y68_NLkMXCc</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/upECNxCmZwI/0.jpg</imageUrl>
-          <videoId>upECNxCmZwI</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/2hVYr0ZbBag/0.jpg</imageUrl>
-          <videoId>2hVYr0ZbBag</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/HQ7dmAgMHuY/0.jpg</imageUrl>
-          <videoId>HQ7dmAgMHuY</videoId>
-          </episode>
-        </season>
-      </seasons>
-    </movie>
-  <movie>
-    <title>Srećni ljudi</title>
-    <year>1993</year>
-    <genre>Komedija</genre>
-    <type>serija</type>
-    <description>Glavni junaci u seriji su članovi porodice Golubović (otac, majka, njihov sin, sinovljeva žena i njihovo dvoje dece). U vreme sankcija i teškog života, ova porodica suočava se sa problemima u svakodnevnom životu. Svako je prinuđen da se snađe na svoj način.</description>
-    <imageUrl>https://img.youtube.com/vi/1FIuVwTmYus/0.jpg</imageUrl>
-    <seasons>
-      <season number="1">
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/1FIuVwTmYus/0.jpg</imageUrl>
-          <videoId>1FIuVwTmYus</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/0G9YhEx2P6E/0.jpg</imageUrl>
-          <videoId>0G9YhEx2P6E</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/GPTxludeaxA/0.jpg</imageUrl>
-          <videoId>GPTxludeaxA</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/y0Jcnpbz7-s/0.jpg</imageUrl>
-          <videoId>y0Jcnpbz7-s</videoId>
-          </episode>
-        </season>
-      </seasons>
-    </movie>
-  <movie>
     <title>Komšije</title>
     <year>2015</year>
     <genre>Comedy</genre>
@@ -1138,6 +990,11 @@ Mileva je glava kuće, sve zna, sve zna i sve se razume. Penzionerka koja je svo
           <title></title>
           <imageUrl>https://img.youtube.com/vi/ntq-hekyzIs/0.jpg</imageUrl>
           <videoId>ntq-hekyzIs</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/N6Qz_S6bU6o/0.jpg</imageUrl>
+          <videoId>N6Qz_S6bU6o</videoId>
           </episode>
         </season>
       <season number="2">
@@ -1279,6 +1136,169 @@ Mileva je glava kuće, sve zna, sve zna i sve se razume. Penzionerka koja je svo
           <title></title>
           <imageUrl>https://img.youtube.com/vi/6y31kSyVbEQ/0.jpg</imageUrl>
           <videoId>6y31kSyVbEQ</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/QcC8UIyAEQ8/0.jpg</imageUrl>
+          <videoId>QcC8UIyAEQ8</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Srećni ljudi</title>
+    <year>1993</year>
+    <genre>Komedija</genre>
+    <type>serija</type>
+    <description>Glavni junaci u seriji su članovi porodice Golubović (otac, majka, njihov sin, sinovljeva žena i njihovo dvoje dece). U vreme sankcija i teškog života, ova porodica suočava se sa problemima u svakodnevnom životu. Svako je prinuđen da se snađe na svoj način.</description>
+    <imageUrl>https://img.youtube.com/vi/1FIuVwTmYus/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/1FIuVwTmYus/0.jpg</imageUrl>
+          <videoId>1FIuVwTmYus</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/0G9YhEx2P6E/0.jpg</imageUrl>
+          <videoId>0G9YhEx2P6E</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/GPTxludeaxA/0.jpg</imageUrl>
+          <videoId>GPTxludeaxA</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/y0Jcnpbz7-s/0.jpg</imageUrl>
+          <videoId>y0Jcnpbz7-s</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/PeVSraayrmc/0.jpg</imageUrl>
+          <videoId>PeVSraayrmc</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Bela lađa</title>
+    <year>Nedostupno</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nismo pronašli opis za ovu seriju.</description>
+    <imageUrl>https://img.youtube.com/vi/i21oxN_B-Xg/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/i21oxN_B-Xg/0.jpg</imageUrl>
+          <videoId>i21oxN_B-Xg</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/CJit8pWrfLo/0.jpg</imageUrl>
+          <videoId>CJit8pWrfLo</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/5lBKx21f-m8/0.jpg</imageUrl>
+          <videoId>5lBKx21f-m8</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/GXHqGivZy84/0.jpg</imageUrl>
+          <videoId>GXHqGivZy84</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/pCdP-v5mRYg/0.jpg</imageUrl>
+          <videoId>pCdP-v5mRYg</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/0AduQ2IOaXw/0.jpg</imageUrl>
+          <videoId>0AduQ2IOaXw</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/JirnJReqZg8/0.jpg</imageUrl>
+          <videoId>JirnJReqZg8</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/quPRajeAFyo/0.jpg</imageUrl>
+          <videoId>quPRajeAFyo</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Cvat lipe na Balkanu</title>
+    <year>2011</year>
+    <genre>Drama</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/jXBDlvUyg04/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/jXBDlvUyg04/0.jpg</imageUrl>
+          <videoId>jXBDlvUyg04</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/iqaf_7ObV6A/0.jpg</imageUrl>
+          <videoId>iqaf_7ObV6A</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Psi laju, vetar nosi</title>
+    <year>2017</year>
+    <genre>Comedy</genre>
+    <type>serija</type>
+    <description>Priča o ljudima koji žive van velikog grada koji se mešaju u urnebesne situacije i događaje.</description>
+    <imageUrl>https://img.youtube.com/vi/Vz6sgq3LSzw/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/Vz6sgq3LSzw/0.jpg</imageUrl>
+          <videoId>Vz6sgq3LSzw</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/HBN-bYyGFOo/0.jpg</imageUrl>
+          <videoId>HBN-bYyGFOo</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/dA_H1EpPV6I/0.jpg</imageUrl>
+          <videoId>dA_H1EpPV6I</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/Y68_NLkMXCc/0.jpg</imageUrl>
+          <videoId>Y68_NLkMXCc</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/upECNxCmZwI/0.jpg</imageUrl>
+          <videoId>upECNxCmZwI</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/2hVYr0ZbBag/0.jpg</imageUrl>
+          <videoId>2hVYr0ZbBag</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/HQ7dmAgMHuY/0.jpg</imageUrl>
+          <videoId>HQ7dmAgMHuY</videoId>
           </episode>
         </season>
       </seasons>
