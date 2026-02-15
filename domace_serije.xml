@@ -1,63 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <category name="Domace serije">
   <movie>
-    <title>Psi laju, vetar nosi</title>
-    <year>2017</year>
-    <genre>Comedy</genre>
-    <type>serija</type>
-    <description>Priča o ljudima koji žive van velikog grada koji se mešaju u urnebesne situacije i događaje.</description>
-    <imageUrl>https://img.youtube.com/vi/Vz6sgq3LSzw/0.jpg</imageUrl>
-    <seasons>
-      <season number="1">
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/Vz6sgq3LSzw/0.jpg</imageUrl>
-          <videoId>Vz6sgq3LSzw</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/J74Q0pvz1po/0.jpg</imageUrl>
-          <videoId>J74Q0pvz1po</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/HBN-bYyGFOo/0.jpg</imageUrl>
-          <videoId>HBN-bYyGFOo</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/dA_H1EpPV6I/0.jpg</imageUrl>
-          <videoId>dA_H1EpPV6I</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/Y68_NLkMXCc/0.jpg</imageUrl>
-          <videoId>Y68_NLkMXCc</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/upECNxCmZwI/0.jpg</imageUrl>
-          <videoId>upECNxCmZwI</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/2hVYr0ZbBag/0.jpg</imageUrl>
-          <videoId>2hVYr0ZbBag</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/HQ7dmAgMHuY/0.jpg</imageUrl>
-          <videoId>HQ7dmAgMHuY</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/_li7GgcoKMQ/0.jpg</imageUrl>
-          <videoId>_li7GgcoKMQ</videoId>
-          </episode>
-        </season>
-      </seasons>
-    </movie>
-  <movie>
     <title>Bela lađa</title>
     <year>Nedostupno</year>
     <genre>Domaca serija</genre>
@@ -125,6 +68,143 @@
           <title></title>
           <imageUrl>https://img.youtube.com/vi/09qo4y_EEa4/0.jpg</imageUrl>
           <videoId>09qo4y_EEa4</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/_e2GaxdvK2I/0.jpg</imageUrl>
+          <videoId>_e2GaxdvK2I</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/iP9eSrGA1zs/0.jpg</imageUrl>
+          <videoId>iP9eSrGA1zs</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/dJzFyTjnCoI/0.jpg</imageUrl>
+          <videoId>dJzFyTjnCoI</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/Tv6iZtIpdzs/0.jpg</imageUrl>
+          <videoId>Tv6iZtIpdzs</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/99sOUuN8yws/0.jpg</imageUrl>
+          <videoId>99sOUuN8yws</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/00sM2e4Q-iw/0.jpg</imageUrl>
+          <videoId>00sM2e4Q-iw</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/EsC7psU8uVs/0.jpg</imageUrl>
+          <videoId>EsC7psU8uVs</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/4DIIWX3hI_E/0.jpg</imageUrl>
+          <videoId>4DIIWX3hI_E</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/t2sNTK-xwzM/0.jpg</imageUrl>
+          <videoId>t2sNTK-xwzM</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/gfGOcyycUzY/0.jpg</imageUrl>
+          <videoId>gfGOcyycUzY</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/SxlLwDlR9us/0.jpg</imageUrl>
+          <videoId>SxlLwDlR9us</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Psi laju, vetar nosi</title>
+    <year>2017</year>
+    <genre>Comedy</genre>
+    <type>serija</type>
+    <description>Priča o ljudima koji žive van velikog grada koji se mešaju u urnebesne situacije i događaje.</description>
+    <imageUrl>https://img.youtube.com/vi/Vz6sgq3LSzw/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/Vz6sgq3LSzw/0.jpg</imageUrl>
+          <videoId>Vz6sgq3LSzw</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/J74Q0pvz1po/0.jpg</imageUrl>
+          <videoId>J74Q0pvz1po</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/HBN-bYyGFOo/0.jpg</imageUrl>
+          <videoId>HBN-bYyGFOo</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/oRWE5CaFbO0/0.jpg</imageUrl>
+          <videoId>oRWE5CaFbO0</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/dA_H1EpPV6I/0.jpg</imageUrl>
+          <videoId>dA_H1EpPV6I</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/FDsr1Qh4oHM/0.jpg</imageUrl>
+          <videoId>FDsr1Qh4oHM</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/Y68_NLkMXCc/0.jpg</imageUrl>
+          <videoId>Y68_NLkMXCc</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/iBvUAQ7dsiM/0.jpg</imageUrl>
+          <videoId>iBvUAQ7dsiM</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/upECNxCmZwI/0.jpg</imageUrl>
+          <videoId>upECNxCmZwI</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/REIsYWtvaJ0/0.jpg</imageUrl>
+          <videoId>REIsYWtvaJ0</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/uRbTuFjizmI/0.jpg</imageUrl>
+          <videoId>uRbTuFjizmI</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/2hVYr0ZbBag/0.jpg</imageUrl>
+          <videoId>2hVYr0ZbBag</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/HQ7dmAgMHuY/0.jpg</imageUrl>
+          <videoId>HQ7dmAgMHuY</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/_li7GgcoKMQ/0.jpg</imageUrl>
+          <videoId>_li7GgcoKMQ</videoId>
           </episode>
         </season>
       </seasons>
@@ -232,6 +312,31 @@
           <title></title>
           <imageUrl>https://img.youtube.com/vi/eqazcmj__lE/0.jpg</imageUrl>
           <videoId>eqazcmj__lE</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/aTpJV0sK9IM/0.jpg</imageUrl>
+          <videoId>aTpJV0sK9IM</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/WplxsQtF8nA/0.jpg</imageUrl>
+          <videoId>WplxsQtF8nA</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/58jhzydOXlQ/0.jpg</imageUrl>
+          <videoId>58jhzydOXlQ</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/nDFKn2rA5Oo/0.jpg</imageUrl>
+          <videoId>nDFKn2rA5Oo</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/aBAu7f1f2hM/0.jpg</imageUrl>
+          <videoId>aBAu7f1f2hM</videoId>
           </episode>
         </season>
       <season number="2">
@@ -361,38 +466,6 @@
       </seasons>
     </movie>
   <movie>
-    <title>Poslednji čin</title>
-    <year>1982</year>
-    <genre>Drama</genre>
-    <type>serija</type>
-    <description>The story of the capture of General Draza Mihailovic and his Chetniks.</description>
-    <imageUrl>https://img.youtube.com/vi/6y31kSyVbEQ/0.jpg</imageUrl>
-    <seasons>
-      <season number="1">
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/6y31kSyVbEQ/0.jpg</imageUrl>
-          <videoId>6y31kSyVbEQ</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/QcC8UIyAEQ8/0.jpg</imageUrl>
-          <videoId>QcC8UIyAEQ8</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/Y4RTfr0B9tY/0.jpg</imageUrl>
-          <videoId>Y4RTfr0B9tY</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/ptVaF_XfIEE/0.jpg</imageUrl>
-          <videoId>ptVaF_XfIEE</videoId>
-          </episode>
-        </season>
-      </seasons>
-    </movie>
-  <movie>
     <title>Srećni ljudi</title>
     <year>1993</year>
     <genre>Komedija</genre>
@@ -441,37 +514,50 @@
           <imageUrl>https://img.youtube.com/vi/mAtYi5a7dWQ/0.jpg</imageUrl>
           <videoId>mAtYi5a7dWQ</videoId>
           </episode>
-        </season>
-      </seasons>
-    </movie>
-  <movie>
-    <title>Cvat lipe na Balkanu</title>
-    <year>2011</year>
-    <genre>Drama</genre>
-    <type>serija</type>
-    <description>Nema opisa.</description>
-    <imageUrl>https://img.youtube.com/vi/jXBDlvUyg04/0.jpg</imageUrl>
-    <seasons>
-      <season number="1">
         <episode>
           <title></title>
-          <imageUrl>https://img.youtube.com/vi/jXBDlvUyg04/0.jpg</imageUrl>
-          <videoId>jXBDlvUyg04</videoId>
+          <imageUrl>https://img.youtube.com/vi/11KupnG_F4A/0.jpg</imageUrl>
+          <videoId>11KupnG_F4A</videoId>
           </episode>
         <episode>
           <title></title>
-          <imageUrl>https://img.youtube.com/vi/iqaf_7ObV6A/0.jpg</imageUrl>
-          <videoId>iqaf_7ObV6A</videoId>
+          <imageUrl>https://img.youtube.com/vi/DzVYLsMThRI/0.jpg</imageUrl>
+          <videoId>DzVYLsMThRI</videoId>
           </episode>
         <episode>
           <title></title>
-          <imageUrl>https://img.youtube.com/vi/58mVWRUh1qc/0.jpg</imageUrl>
-          <videoId>58mVWRUh1qc</videoId>
+          <imageUrl>https://img.youtube.com/vi/TP7zE2TUuaQ/0.jpg</imageUrl>
+          <videoId>TP7zE2TUuaQ</videoId>
           </episode>
         <episode>
           <title></title>
-          <imageUrl>https://img.youtube.com/vi/TkChkwFoPjo/0.jpg</imageUrl>
-          <videoId>TkChkwFoPjo</videoId>
+          <imageUrl>https://img.youtube.com/vi/jc9Jnj3uh9Q/0.jpg</imageUrl>
+          <videoId>jc9Jnj3uh9Q</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/v9Y2gy5MDIU/0.jpg</imageUrl>
+          <videoId>v9Y2gy5MDIU</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/RSOjuW599K4/0.jpg</imageUrl>
+          <videoId>RSOjuW599K4</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/qFOgqDaPSGw/0.jpg</imageUrl>
+          <videoId>qFOgqDaPSGw</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/odAqcUNXNmg/0.jpg</imageUrl>
+          <videoId>odAqcUNXNmg</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/cfmJdoh6Ebk/0.jpg</imageUrl>
+          <videoId>cfmJdoh6Ebk</videoId>
           </episode>
         </season>
       </seasons>
@@ -594,8 +680,18 @@ Mileva je glava kuće, sve zna, sve zna i sve se razume. Penzionerka koja je svo
           </episode>
         <episode>
           <title></title>
+          <imageUrl>https://img.youtube.com/vi/iPWmGpwcWhs/0.jpg</imageUrl>
+          <videoId>iPWmGpwcWhs</videoId>
+          </episode>
+        <episode>
+          <title></title>
           <imageUrl>https://img.youtube.com/vi/hCG_wHlV_bk/0.jpg</imageUrl>
           <videoId>hCG_wHlV_bk</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/K60s9YA4bUE/0.jpg</imageUrl>
+          <videoId>K60s9YA4bUE</videoId>
           </episode>
         <episode>
           <title></title>
@@ -1384,6 +1480,85 @@ Mileva je glava kuće, sve zna, sve zna i sve se razume. Penzionerka koja je svo
           <title></title>
           <imageUrl>https://img.youtube.com/vi/hiP0P-h5fUI/0.jpg</imageUrl>
           <videoId>hiP0P-h5fUI</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Cvat lipe na Balkanu</title>
+    <year>2011</year>
+    <genre>Drama</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/jXBDlvUyg04/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/jXBDlvUyg04/0.jpg</imageUrl>
+          <videoId>jXBDlvUyg04</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/iqaf_7ObV6A/0.jpg</imageUrl>
+          <videoId>iqaf_7ObV6A</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/58mVWRUh1qc/0.jpg</imageUrl>
+          <videoId>58mVWRUh1qc</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/TkChkwFoPjo/0.jpg</imageUrl>
+          <videoId>TkChkwFoPjo</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/fzEjE0392Bg/0.jpg</imageUrl>
+          <videoId>fzEjE0392Bg</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/FRee1foLbh0/0.jpg</imageUrl>
+          <videoId>FRee1foLbh0</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/nLOkVpsL6bY/0.jpg</imageUrl>
+          <videoId>nLOkVpsL6bY</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Poslednji čin</title>
+    <year>1982</year>
+    <genre>Drama</genre>
+    <type>serija</type>
+    <description>The story of the capture of General Draza Mihailovic and his Chetniks.</description>
+    <imageUrl>https://img.youtube.com/vi/6y31kSyVbEQ/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/6y31kSyVbEQ/0.jpg</imageUrl>
+          <videoId>6y31kSyVbEQ</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/QcC8UIyAEQ8/0.jpg</imageUrl>
+          <videoId>QcC8UIyAEQ8</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/Y4RTfr0B9tY/0.jpg</imageUrl>
+          <videoId>Y4RTfr0B9tY</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/ptVaF_XfIEE/0.jpg</imageUrl>
+          <videoId>ptVaF_XfIEE</videoId>
           </episode>
         </season>
       </seasons>
@@ -4963,11 +5138,6 @@ Kroz borbu sa životnim izazovima generacije, serija pokušava da dočara i duh 
           <title></title>
           <imageUrl>https://img.youtube.com/vi/jep5KoTr7HA/0.jpg</imageUrl>
           <videoId>jep5KoTr7HA</videoId>
-          </episode>
-        <episode>
-          <title></title>
-          <imageUrl>https://img.youtube.com/vi/SEIkov3xrn8/0.jpg</imageUrl>
-          <videoId>SEIkov3xrn8</videoId>
           </episode>
         <episode>
           <title></title>
