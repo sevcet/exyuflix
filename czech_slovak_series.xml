@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<category name="Domace serije">
+  <movie>
+    <title>Na vysokej skal</title>
+    <year>1978</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/HT5Qx_gPiw4/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/HT5Qx_gPiw4/0.jpg</imageUrl>
+          <videoId>HT5Qx_gPiw4</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/LCOHPo8I9ck/0.jpg</imageUrl>
+          <videoId>LCOHPo8I9ck</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/QfIm60dNREY/0.jpg</imageUrl>
+          <videoId>QfIm60dNREY</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/VJsYUd64B1I/0.jpg</imageUrl>
+          <videoId>VJsYUd64B1I</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/mV7cM9qwWts/0.jpg</imageUrl>
+          <videoId>mV7cM9qwWts</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/rYcbHNk0mlc/0.jpg</imageUrl>
+          <videoId>rYcbHNk0mlc</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/XkB6Thdk8Vw/0.jpg</imageUrl>
+          <videoId>XkB6Thdk8Vw</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Roky prelomu •</title>
+    <year>1989</year>
+    <genre>Drama</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/6nr825VRwek/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/6nr825VRwek/0.jpg</imageUrl>
+          <videoId>6nr825VRwek</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/dOsGeJpjKDQ/0.jpg</imageUrl>
+          <videoId>dOsGeJpjKDQ</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/t7rN6b2owu8/0.jpg</imageUrl>
+          <videoId>t7rN6b2owu8</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/cZZ7ocMnTME/0.jpg</imageUrl>
+          <videoId>cZZ7ocMnTME</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/LN4k_RkGaJE/0.jpg</imageUrl>
+          <videoId>LN4k_RkGaJE</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Ucho() CZ drama</title>
+    <year>1970</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/rnxybrZ6ynw/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/rnxybrZ6ynw/0.jpg</imageUrl>
+          <videoId>rnxybrZ6ynw</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  </category>
