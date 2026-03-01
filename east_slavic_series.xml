@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<category name="Domace serije">
+  <movie>
+    <title>ЖИВА ВОДА() УКРАЇНСЬКЕ КІНО ДОВЖЕНКА</title>
+    <year>1971</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/nMLARZ-o_bs/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/nMLARZ-o_bs/0.jpg</imageUrl>
+          <videoId>nMLARZ-o_bs</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>фільм драма історичне() Українське кіно / фільм/ Миколайчук</title>
+    <year>1964</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/T9u2tQHmvt8/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/T9u2tQHmvt8/0.jpg</imageUrl>
+          <videoId>T9u2tQHmvt8</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>ВИСОКИЙ ПЕРЕВАЛ()/ на реальних подіях/український фільм</title>
+    <year>1982</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/FEpuPU2YXv4/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/FEpuPU2YXv4/0.jpg</imageUrl>
+          <videoId>FEpuPU2YXv4</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>КОМЕДІЯ - ПО МОДНЬОМУ()-УКРТЕЛЕФІЛЬМ</title>
+    <year>1992</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/3gYwwLYZGPM/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/3gYwwLYZGPM/0.jpg</imageUrl>
+          <videoId>3gYwwLYZGPM</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Похороны на втором этаже()Фильм Александр Сташков,Елена АминоваВ ролях Анатолий Хостикоев.Боевик</title>
+    <year>1991</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/wZH1j0NXrTs/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/wZH1j0NXrTs/0.jpg</imageUrl>
+          <videoId>wZH1j0NXrTs</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title></title>
+    <year>2002</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/LjqLYi4oveA/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/LjqLYi4oveA/0.jpg</imageUrl>
+          <videoId>LjqLYi4oveA</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  </category>
