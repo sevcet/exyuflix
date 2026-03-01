@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<category name="Domace serije">
+  <movie>
+    <title>The Dutch Delta Region</title>
+    <year>N/A</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/tfuEChSpLeQ/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/tfuEChSpLeQ/0.jpg</imageUrl>
+          <videoId>tfuEChSpLeQ</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/FGjsYBGU_qA/0.jpg</imageUrl>
+          <videoId>FGjsYBGU_qA</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>WNL - De zaak van je leven (</title>
+    <year>N/A</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/z4Il7Lr3iyI/0.jpg</imageUrl>
+    <seasons>
+      <season number="2">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/z4Il7Lr3iyI/0.jpg</imageUrl>
+          <videoId>z4Il7Lr3iyI</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  </category>
