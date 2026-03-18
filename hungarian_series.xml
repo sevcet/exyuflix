@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<category name="Domace serije">
+  <movie>
+    <title>Poirot: Mrs. McGinty halott (S11.</title>
+    <year>N/A</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/q0iIwmwEfUc/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/q0iIwmwEfUc/0.jpg</imageUrl>
+          <videoId>q0iIwmwEfUc</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  </category>
