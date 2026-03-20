@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<category name="Domace serije">
+  <movie>
+    <title>Japan On Film</title>
+    <year>N/A</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/8Y-vJlUY-bE/0.jpg</imageUrl>
+    <seasons>
+      <season number="6">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/8Y-vJlUY-bE/0.jpg</imageUrl>
+          <videoId>8Y-vJlUY-bE</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title></title>
+    <year>N/A</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/FajgSYx-6HI/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/FajgSYx-6HI/0.jpg</imageUrl>
+          <videoId>FajgSYx-6HI</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Wandering notes()</title>
+    <year>1935</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/6zqL04rolpA/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/6zqL04rolpA/0.jpg</imageUrl>
+          <videoId>6zqL04rolpA</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Spy Still Can Not Die()</title>
+    <year>1942</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/cmPMcsjSol0/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/cmPMcsjSol0/0.jpg</imageUrl>
+          <videoId>cmPMcsjSol0</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>BLOOD-TWO EAGLES()</title>
+    <year>1998</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/2rHGAst6YMk/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/2rHGAst6YMk/0.jpg</imageUrl>
+          <videoId>2rHGAst6YMk</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  </category>
