@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<category name="Domace serije">
+  <movie>
+    <title>Urmarira</title>
+    <year>1971</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/Sj2kumC7r-U/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/Sj2kumC7r-U/0.jpg</imageUrl>
+          <videoId>Sj2kumC7r-U</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>comedie romaneasca</title>
+    <year>N/A</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/H2UxNa6MnGU/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/H2UxNa6MnGU/0.jpg</imageUrl>
+          <videoId>H2UxNa6MnGU</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Pistruiatul</title>
+    <year>1973</year>
+    <genre>Family</genre>
+    <type>serija</type>
+    <description>During the times of the Second World War in Royal Romania, a street smart kid accidentally becomes part of an organization which will eventually decide the future of his country.</description>
+    <imageUrl>https://img.youtube.com/vi/QOkn3tEBiWo/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/QOkn3tEBiWo/0.jpg</imageUrl>
+          <videoId>QOkn3tEBiWo</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/-BsIYAZYxiY/0.jpg</imageUrl>
+          <videoId>-BsIYAZYxiY</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/8aCVV4qhsx8/0.jpg</imageUrl>
+          <videoId>8aCVV4qhsx8</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/_RAigB2dLlo/0.jpg</imageUrl>
+          <videoId>_RAigB2dLlo</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/K-TpCncvuN0/0.jpg</imageUrl>
+          <videoId>K-TpCncvuN0</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/CwEE5EJNrlU/0.jpg</imageUrl>
+          <videoId>CwEE5EJNrlU</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/c9QhJeVyV-U/0.jpg</imageUrl>
+          <videoId>c9QhJeVyV-U</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/IHaOZObQkcU/0.jpg</imageUrl>
+          <videoId>IHaOZObQkcU</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/EDzIxqW4bWA/0.jpg</imageUrl>
+          <videoId>EDzIxqW4bWA</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/-Uajq6r2SG8/0.jpg</imageUrl>
+          <videoId>-Uajq6r2SG8</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Ochii care nu se vad</title>
+    <year>N/A</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/hL3it_2xgdw/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/hL3it_2xgdw/0.jpg</imageUrl>
+          <videoId>hL3it_2xgdw</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Cursa().avi</title>
+    <year>1975</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/5tiHA22wEqg/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/5tiHA22wEqg/0.jpg</imageUrl>
+          <videoId>5tiHA22wEqg</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  </category>
