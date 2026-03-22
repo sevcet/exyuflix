@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<category name="Domace serije">
+  <movie>
+    <title>Sempre Foi Deus | Drama |</title>
+    <year>N/A</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/EAxTk4lPoDw/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/EAxTk4lPoDw/0.jpg</imageUrl>
+          <videoId>EAxTk4lPoDw</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/aZSOja-nIG8/0.jpg</imageUrl>
+          <videoId>aZSOja-nIG8</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/KUoe2Z6NdAU/0.jpg</imageUrl>
+          <videoId>KUoe2Z6NdAU</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/Hs76rPw2wjw/0.jpg</imageUrl>
+          <videoId>Hs76rPw2wjw</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/8_xlhEvtKdM/0.jpg</imageUrl>
+          <videoId>8_xlhEvtKdM</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Pintando 7 com Gaspar</title>
+    <year>N/A</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/SlvCgRD-H74/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/SlvCgRD-H74/0.jpg</imageUrl>
+          <videoId>SlvCgRD-H74</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/xkyp2Pc8Idk/0.jpg</imageUrl>
+          <videoId>xkyp2Pc8Idk</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/DnmjN7Gkcs0/0.jpg</imageUrl>
+          <videoId>DnmjN7Gkcs0</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/db3Nbz0JLQk/0.jpg</imageUrl>
+          <videoId>db3Nbz0JLQk</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/kFGve3i_iLU/0.jpg</imageUrl>
+          <videoId>kFGve3i_iLU</videoId>
+          </episode>
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/rqiY6jTF65s/0.jpg</imageUrl>
+          <videoId>rqiY6jTF65s</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>D.P.A DETETIVES DO PRÉDIO AZUL O FILME</title>
+    <year>N/A</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/CLA6CxaJ7Us/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/CLA6CxaJ7Us/0.jpg</imageUrl>
+          <videoId>CLA6CxaJ7Us</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Fram Ursul Polar</title>
+    <year>N/A</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/9lJV3h6O5eM/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/9lJV3h6O5eM/0.jpg</imageUrl>
+          <videoId>9lJV3h6O5eM</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Porto das Caixas() de Paulo César Saraceni</title>
+    <year>1962</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/iDn_kBpn6yA/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/iDn_kBpn6yA/0.jpg</imageUrl>
+          <videoId>iDn_kBpn6yA</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  </category>
