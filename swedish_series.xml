@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<category name="Domace serije">
+  <movie>
+    <title>Y'a que la vérité qui compte</title>
+    <year>2002</year>
+    <genre>Reality</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/D94fnXNcn6Y/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/D94fnXNcn6Y/0.jpg</imageUrl>
+          <videoId>D94fnXNcn6Y</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  <movie>
+    <title>Hemliga Svensson() Edvard Persson, Fridolf Rhudin m.fl.</title>
+    <year>1933</year>
+    <genre>Domaca serija</genre>
+    <type>serija</type>
+    <description>Nema opisa.</description>
+    <imageUrl>https://img.youtube.com/vi/hgSkgjcmgh8/0.jpg</imageUrl>
+    <seasons>
+      <season number="1">
+        <episode>
+          <title></title>
+          <imageUrl>https://img.youtube.com/vi/hgSkgjcmgh8/0.jpg</imageUrl>
+          <videoId>hgSkgjcmgh8</videoId>
+          </episode>
+        </season>
+      </seasons>
+    </movie>
+  </category>
